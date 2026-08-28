@@ -1,0 +1,9 @@
+{
+  "step": "tools",
+  "tool_calls": [
+    {
+      "name": "generate_report",
+      "arguments_json": "{\"title\": \"Weekly Briefing - Hotel Aurora\", \"subtitle\": \"Week of 15 June 2026\", \"markdown\": \"Revenue is ahead of plan this month: EUR 98,589 month to date, up 7.6% on last year, on 85.2% average occupancy. Profit MTD is EUR 39,169. The chart below shows the last four weeks of daily revenue.\", \"kpis\": [{\"label\": \"MTD revenue\", \"value\": \"EUR 98,589\", \"delta\": \"+7.6% YoY\"}, {\"label\": \"Occupancy\", \"value\": \"85.2%\"}, {\"label\": \"ADR\", \"value\": \"EUR 146.15\"}, {\"label\": \"MTD profit\", \"value\": \"EUR 39,169\"}], \"chart\": {\"type\": \"line\", \"series\": [{\"name\": \"Revenue\", \"data\": [{\"x\": \"Wk-3\", \"y\": 34210.5}, {\"x\": \"Wk-2\", \"y\": 35680.2}, {\"x\": \"Wk-1\", \"y\": 36990.8}, {\"x\": \"This wk\", \"y\": 5879.5}]}]}}"
+    }
+  ]
+}

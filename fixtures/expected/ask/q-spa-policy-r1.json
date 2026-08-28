@@ -1,0 +1,1 @@
+{"step": "tools", "tool_calls": [{"name": "search_knowledge_base", "arguments_json": "{\"query\": \"spa children policy age\"}"}]}

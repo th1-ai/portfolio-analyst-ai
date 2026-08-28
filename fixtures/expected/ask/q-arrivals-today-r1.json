@@ -1,0 +1,1 @@
+{"step": "tools", "tool_calls": [{"name": "list_reservations", "arguments_json": "{\"window\": \"today_arrivals\"}"}]}

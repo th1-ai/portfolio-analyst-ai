@@ -1,0 +1,24 @@
+# Scheduling portfolio-analyst-ai with cron (Linux, and macOS if the machine
+# stays awake).
+#
+# Install:  crontab -e     then paste the line below.
+# Check:    crontab -l
+# Logs:     tail -f <repo path>/data/logs/cron.log
+#
+# This agent has exactly one recurring job - the morning digest
+# (config/agent.yaml: schedule.digest, workflows/16-digest.md). There is no
+# "main loop" to poll: asking a question is always on demand
+# (workflows/10-ask.md). The line below is real output from, on this
+# machine:
+#
+#     python3 tools/schedule.py --all
+#
+# Re-run that yourself before you paste - it fills in the absolute paths for
+# YOUR machine, which will not match the ones below.
+
+# Morning digest, 07:00 daily (config/agent.yaml: schedule.digest.cadence).
+0 7 * * * cd /path/to/portfolio-analyst-ai && /path/to/portfolio-analyst-ai/.venv/bin/python tools/run.py --once --digest >> /path/to/portfolio-analyst-ai/data/logs/cron.log 2>&1
+
+# Start in shadow mode. Only turn this on after you have watched a few real
+# digest runs by hand (mode: live) and are happy with what gets exported -
+# see workflows/90-go-live.md.

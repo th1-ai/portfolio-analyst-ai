@@ -1,0 +1,41 @@
+# Scheduling portfolio-analyst-ai's morning digest on a Linux server
+# (1 of 2: the service). There is no "main loop" to poll - this agent has
+# exactly one recurring job, config/agent.yaml: schedule.digest. Asking a
+# question is always on demand (workflows/10-ask.md).
+#
+# 1. Replace /path/to/portfolio-analyst-ai with the repo path and RUN_USER
+#    with the user that owns it. Never root.
+# 2. sudo cp systemd.example.service /etc/systemd/system/portfolio-analyst-ai-digest.service
+# 3. sudo cp systemd.example.timer   /etc/systemd/system/portfolio-analyst-ai-digest.timer
+# 4. sudo systemctl daemon-reload && sudo systemctl enable --now portfolio-analyst-ai-digest.timer
+#
+# Watch it:  journalctl -u portfolio-analyst-ai-digest.service -f
+# Run once:  sudo systemctl start portfolio-analyst-ai-digest.service
+#
+# tools/schedule.py, run with its "all jobs" and "systemd" options (see
+# workflows/16-digest.md), prints this with your own machine's real paths
+# already filled in - prefer that over hand-editing.
+
+[Unit]
+Description=portfolio-analyst-ai - the morning digest
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=RUN_USER
+WorkingDirectory=/path/to/portfolio-analyst-ai
+ExecStart=/path/to/portfolio-analyst-ai/.venv/bin/python tools/run.py --once --digest
+
+# The agent only ever writes inside its own data/ folder.
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/path/to/portfolio-analyst-ai/data
+PrivateTmp=true
+
+# Do not let a stuck run pile up.
+TimeoutStartSec=900
+
+[Install]
+WantedBy=multi-user.target

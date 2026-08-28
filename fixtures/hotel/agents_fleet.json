@@ -1,0 +1,17 @@
+[
+  {"slug": "front-desk-ai", "name": "Front Desk AI", "nickname": "The Receptionist",
+   "status": "active", "runs_today": 42, "runs_30d": 1180, "success_rate": 0.94,
+   "last_run_at": "2026-06-15T09:05:00Z"},
+  {"slug": "revenue-management-ai", "name": "Revenue Management AI", "nickname": "The Quant",
+   "status": "active", "runs_today": 6, "runs_30d": 180, "success_rate": 0.98,
+   "last_run_at": "2026-06-15T06:00:00Z"},
+  {"slug": "review-response-ai", "name": "Review-Response AI", "nickname": "The Reputation Knight",
+   "status": "active", "runs_today": 3, "runs_30d": 92, "success_rate": 0.91,
+   "last_run_at": "2026-06-15T05:30:00Z"},
+  {"slug": "housekeeping-maintenance-ai", "name": "Housekeeping & Maintenance AI",
+   "nickname": "The Steward", "status": "active", "runs_today": 12, "runs_30d": 360,
+   "success_rate": 0.96, "last_run_at": "2026-06-15T08:45:00Z"},
+  {"slug": "upsell-ai", "name": "Upsell AI", "nickname": "The Merchant",
+   "status": "paused", "runs_today": 0, "runs_30d": 210, "success_rate": 0.89,
+   "last_run_at": "2026-06-09T10:00:00Z"}
+]

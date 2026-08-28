@@ -1,0 +1,24 @@
+# Scheduling portfolio-analyst-ai's morning digest on a Linux server
+# (2 of 2: the timer).
+#
+# sudo cp systemd.example.timer /etc/systemd/system/portfolio-analyst-ai-digest.timer
+# sudo systemctl daemon-reload
+# sudo systemctl enable --now portfolio-analyst-ai-digest.timer
+# systemctl list-timers | grep portfolio-analyst-ai-digest
+
+[Unit]
+Description=Run portfolio-analyst-ai's morning digest daily at 07:00
+
+[Timer]
+OnCalendar=*-*-* 07:00:00
+
+# Catch up after a reboot or a maintenance window instead of skipping.
+Persistent=true
+
+# Stagger the start so several agents on one box do not all wake together.
+RandomizedDelaySec=60
+
+Unit=portfolio-analyst-ai-digest.service
+
+[Install]
+WantedBy=timers.target

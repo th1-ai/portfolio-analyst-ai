@@ -1,0 +1,9 @@
+{
+  "step": "tools",
+  "tool_calls": [
+    {
+      "name": "get_financial_summary",
+      "arguments_json": "{}"
+    }
+  ]
+}

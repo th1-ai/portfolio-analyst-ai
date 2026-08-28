@@ -1,0 +1,7362 @@
+[
+  {
+    "date": "2024-06-10",
+    "revenue_rooms": 4096.38,
+    "revenue_fnb": 800.7,
+    "revenue_other": 234.9,
+    "costs_total": 3054.78,
+    "occupancy_pct": 72.8,
+    "adr": 134.04,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-11",
+    "revenue_rooms": 4202.09,
+    "revenue_fnb": 816.55,
+    "revenue_other": 134.77,
+    "costs_total": 3088.39,
+    "occupancy_pct": 74.0,
+    "adr": 135.26,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-12",
+    "revenue_rooms": 4275.03,
+    "revenue_fnb": 893.55,
+    "revenue_other": 233.82,
+    "costs_total": 3307.84,
+    "occupancy_pct": 73.8,
+    "adr": 138.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-13",
+    "revenue_rooms": 4392.5,
+    "revenue_fnb": 834.57,
+    "revenue_other": 237.4,
+    "costs_total": 3356.56,
+    "occupancy_pct": 75.6,
+    "adr": 138.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-14",
+    "revenue_rooms": 4997.31,
+    "revenue_fnb": 991.59,
+    "revenue_other": 295.71,
+    "costs_total": 3822.77,
+    "occupancy_pct": 89.0,
+    "adr": 133.64,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-15",
+    "revenue_rooms": 5294.89,
+    "revenue_fnb": 1039.61,
+    "revenue_other": 217.63,
+    "costs_total": 4126.79,
+    "occupancy_pct": 94.8,
+    "adr": 133.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-16",
+    "revenue_rooms": 4498.52,
+    "revenue_fnb": 886.0,
+    "revenue_other": 233.92,
+    "costs_total": 3308.93,
+    "occupancy_pct": 79.2,
+    "adr": 135.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-17",
+    "revenue_rooms": 4222.53,
+    "revenue_fnb": 806.89,
+    "revenue_other": 197.67,
+    "costs_total": 3132.36,
+    "occupancy_pct": 73.3,
+    "adr": 137.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-18",
+    "revenue_rooms": 4158.44,
+    "revenue_fnb": 774.53,
+    "revenue_other": 196.65,
+    "costs_total": 3098.95,
+    "occupancy_pct": 71.8,
+    "adr": 137.83,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-19",
+    "revenue_rooms": 4098.15,
+    "revenue_fnb": 940.82,
+    "revenue_other": 181.47,
+    "costs_total": 3251.71,
+    "occupancy_pct": 72.7,
+    "adr": 134.29,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-20",
+    "revenue_rooms": 4526.82,
+    "revenue_fnb": 906.81,
+    "revenue_other": 142.67,
+    "costs_total": 3367.38,
+    "occupancy_pct": 80.7,
+    "adr": 133.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-21",
+    "revenue_rooms": 4783.01,
+    "revenue_fnb": 922.38,
+    "revenue_other": 212.75,
+    "costs_total": 3704.33,
+    "occupancy_pct": 86.5,
+    "adr": 131.6,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-22",
+    "revenue_rooms": 5219.29,
+    "revenue_fnb": 1065.13,
+    "revenue_other": 189.98,
+    "costs_total": 3776.96,
+    "occupancy_pct": 93.2,
+    "adr": 133.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-23",
+    "revenue_rooms": 4547.14,
+    "revenue_fnb": 936.5,
+    "revenue_other": 184.08,
+    "costs_total": 3404.83,
+    "occupancy_pct": 79.6,
+    "adr": 136.04,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-24",
+    "revenue_rooms": 4361.55,
+    "revenue_fnb": 911.04,
+    "revenue_other": 234.67,
+    "costs_total": 3398.4,
+    "occupancy_pct": 76.0,
+    "adr": 136.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-25",
+    "revenue_rooms": 4041.53,
+    "revenue_fnb": 887.59,
+    "revenue_other": 164.8,
+    "costs_total": 3041.34,
+    "occupancy_pct": 72.9,
+    "adr": 131.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-26",
+    "revenue_rooms": 4199.55,
+    "revenue_fnb": 838.39,
+    "revenue_other": 210.3,
+    "costs_total": 3228.73,
+    "occupancy_pct": 72.3,
+    "adr": 138.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-27",
+    "revenue_rooms": 4134.35,
+    "revenue_fnb": 885.1,
+    "revenue_other": 205.08,
+    "costs_total": 3258.28,
+    "occupancy_pct": 75.2,
+    "adr": 130.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-28",
+    "revenue_rooms": 5016.96,
+    "revenue_fnb": 1056.18,
+    "revenue_other": 260.71,
+    "costs_total": 3989.87,
+    "occupancy_pct": 87.7,
+    "adr": 136.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-29",
+    "revenue_rooms": 5026.74,
+    "revenue_fnb": 1088.05,
+    "revenue_other": 167.39,
+    "costs_total": 3716.33,
+    "occupancy_pct": 90.2,
+    "adr": 132.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-06-30",
+    "revenue_rooms": 4705.69,
+    "revenue_fnb": 1037.38,
+    "revenue_other": 150.56,
+    "costs_total": 3635.14,
+    "occupancy_pct": 82.9,
+    "adr": 135.1,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-01",
+    "revenue_rooms": 4613.67,
+    "revenue_fnb": 932.27,
+    "revenue_other": 268.88,
+    "costs_total": 3447.06,
+    "occupancy_pct": 77.1,
+    "adr": 142.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-02",
+    "revenue_rooms": 4752.34,
+    "revenue_fnb": 1037.57,
+    "revenue_other": 240.6,
+    "costs_total": 3605.64,
+    "occupancy_pct": 81.2,
+    "adr": 139.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-03",
+    "revenue_rooms": 4757.52,
+    "revenue_fnb": 948.38,
+    "revenue_other": 271.7,
+    "costs_total": 3504.13,
+    "occupancy_pct": 79.6,
+    "adr": 142.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-04",
+    "revenue_rooms": 4784.58,
+    "revenue_fnb": 1021.68,
+    "revenue_other": 194.22,
+    "costs_total": 3511.54,
+    "occupancy_pct": 81.4,
+    "adr": 139.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-05",
+    "revenue_rooms": 5368.51,
+    "revenue_fnb": 1020.6,
+    "revenue_other": 292.75,
+    "costs_total": 3996.4,
+    "occupancy_pct": 93.9,
+    "adr": 136.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-06",
+    "revenue_rooms": 5746.71,
+    "revenue_fnb": 1281.16,
+    "revenue_other": 279.87,
+    "costs_total": 4310.1,
+    "occupancy_pct": 97.3,
+    "adr": 140.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-07",
+    "revenue_rooms": 4987.67,
+    "revenue_fnb": 1129.03,
+    "revenue_other": 174.95,
+    "costs_total": 3653.28,
+    "occupancy_pct": 85.4,
+    "adr": 139.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-08",
+    "revenue_rooms": 4538.57,
+    "revenue_fnb": 867.03,
+    "revenue_other": 251.18,
+    "costs_total": 3489.01,
+    "occupancy_pct": 78.0,
+    "adr": 138.51,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-09",
+    "revenue_rooms": 4713.06,
+    "revenue_fnb": 918.3,
+    "revenue_other": 226.71,
+    "costs_total": 3654.03,
+    "occupancy_pct": 78.8,
+    "adr": 142.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-10",
+    "revenue_rooms": 4649.83,
+    "revenue_fnb": 1030.05,
+    "revenue_other": 238.66,
+    "costs_total": 3669.01,
+    "occupancy_pct": 79.1,
+    "adr": 140.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-11",
+    "revenue_rooms": 5223.32,
+    "revenue_fnb": 994.88,
+    "revenue_other": 264.16,
+    "costs_total": 3936.16,
+    "occupancy_pct": 87.2,
+    "adr": 142.7,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-12",
+    "revenue_rooms": 5548.5,
+    "revenue_fnb": 1048.39,
+    "revenue_other": 252.66,
+    "costs_total": 4086.85,
+    "occupancy_pct": 95.4,
+    "adr": 138.47,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-13",
+    "revenue_rooms": 5574.03,
+    "revenue_fnb": 1122.66,
+    "revenue_other": 267.48,
+    "costs_total": 4271.09,
+    "occupancy_pct": 97.3,
+    "adr": 136.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-14",
+    "revenue_rooms": 5020.33,
+    "revenue_fnb": 1042.63,
+    "revenue_other": 173.29,
+    "costs_total": 3674.89,
+    "occupancy_pct": 84.3,
+    "adr": 141.71,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-15",
+    "revenue_rooms": 4491.0,
+    "revenue_fnb": 831.46,
+    "revenue_other": 172.71,
+    "costs_total": 3454.93,
+    "occupancy_pct": 79.1,
+    "adr": 135.24,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-16",
+    "revenue_rooms": 4653.07,
+    "revenue_fnb": 1039.06,
+    "revenue_other": 275.72,
+    "costs_total": 3722.85,
+    "occupancy_pct": 78.1,
+    "adr": 141.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-17",
+    "revenue_rooms": 4956.17,
+    "revenue_fnb": 925.27,
+    "revenue_other": 210.98,
+    "costs_total": 3556.78,
+    "occupancy_pct": 83.2,
+    "adr": 141.77,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-18",
+    "revenue_rooms": 5054.16,
+    "revenue_fnb": 1006.65,
+    "revenue_other": 196.38,
+    "costs_total": 3808.11,
+    "occupancy_pct": 84.4,
+    "adr": 142.64,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-19",
+    "revenue_rooms": 5558.78,
+    "revenue_fnb": 1004.79,
+    "revenue_other": 184.02,
+    "costs_total": 3973.51,
+    "occupancy_pct": 94.1,
+    "adr": 140.58,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-20",
+    "revenue_rooms": 5675.71,
+    "revenue_fnb": 1184.42,
+    "revenue_other": 268.72,
+    "costs_total": 4366.61,
+    "occupancy_pct": 95.7,
+    "adr": 141.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-21",
+    "revenue_rooms": 5030.14,
+    "revenue_fnb": 1093.18,
+    "revenue_other": 274.93,
+    "costs_total": 3908.0,
+    "occupancy_pct": 87.8,
+    "adr": 136.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-22",
+    "revenue_rooms": 4619.07,
+    "revenue_fnb": 997.26,
+    "revenue_other": 176.8,
+    "costs_total": 3393.64,
+    "occupancy_pct": 78.8,
+    "adr": 139.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-23",
+    "revenue_rooms": 4745.31,
+    "revenue_fnb": 984.76,
+    "revenue_other": 211.39,
+    "costs_total": 3574.18,
+    "occupancy_pct": 79.5,
+    "adr": 142.2,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-24",
+    "revenue_rooms": 4711.6,
+    "revenue_fnb": 1081.39,
+    "revenue_other": 234.01,
+    "costs_total": 3531.86,
+    "occupancy_pct": 82.5,
+    "adr": 136.05,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-25",
+    "revenue_rooms": 5081.4,
+    "revenue_fnb": 1048.4,
+    "revenue_other": 181.7,
+    "costs_total": 3878.0,
+    "occupancy_pct": 84.6,
+    "adr": 143.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-26",
+    "revenue_rooms": 5487.3,
+    "revenue_fnb": 1154.08,
+    "revenue_other": 167.76,
+    "costs_total": 3993.13,
+    "occupancy_pct": 92.2,
+    "adr": 141.7,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-27",
+    "revenue_rooms": 5756.94,
+    "revenue_fnb": 1069.28,
+    "revenue_other": 208.85,
+    "costs_total": 4225.36,
+    "occupancy_pct": 95.8,
+    "adr": 143.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-28",
+    "revenue_rooms": 4950.55,
+    "revenue_fnb": 1119.97,
+    "revenue_other": 218.21,
+    "costs_total": 3764.55,
+    "occupancy_pct": 85.3,
+    "adr": 138.15,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-29",
+    "revenue_rooms": 4670.49,
+    "revenue_fnb": 1036.53,
+    "revenue_other": 217.27,
+    "costs_total": 3613.25,
+    "occupancy_pct": 81.9,
+    "adr": 135.83,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-30",
+    "revenue_rooms": 4805.12,
+    "revenue_fnb": 1068.42,
+    "revenue_other": 145.83,
+    "costs_total": 3669.51,
+    "occupancy_pct": 81.7,
+    "adr": 140.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-07-31",
+    "revenue_rooms": 4818.56,
+    "revenue_fnb": 940.86,
+    "revenue_other": 270.94,
+    "costs_total": 3539.24,
+    "occupancy_pct": 81.9,
+    "adr": 140.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-01",
+    "revenue_rooms": 4803.78,
+    "revenue_fnb": 882.0,
+    "revenue_other": 258.41,
+    "costs_total": 3668.52,
+    "occupancy_pct": 83.5,
+    "adr": 136.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-02",
+    "revenue_rooms": 5475.67,
+    "revenue_fnb": 1107.05,
+    "revenue_other": 311.83,
+    "costs_total": 4304.79,
+    "occupancy_pct": 96.3,
+    "adr": 135.41,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-03",
+    "revenue_rooms": 5712.54,
+    "revenue_fnb": 1180.35,
+    "revenue_other": 237.4,
+    "costs_total": 4468.13,
+    "occupancy_pct": 97.6,
+    "adr": 139.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-04",
+    "revenue_rooms": 5189.74,
+    "revenue_fnb": 984.95,
+    "revenue_other": 284.39,
+    "costs_total": 4013.32,
+    "occupancy_pct": 89.2,
+    "adr": 138.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-05",
+    "revenue_rooms": 4851.58,
+    "revenue_fnb": 896.62,
+    "revenue_other": 276.81,
+    "costs_total": 3692.42,
+    "occupancy_pct": 80.7,
+    "adr": 143.22,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-06",
+    "revenue_rooms": 4801.03,
+    "revenue_fnb": 991.99,
+    "revenue_other": 185.39,
+    "costs_total": 3517.41,
+    "occupancy_pct": 79.9,
+    "adr": 143.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-07",
+    "revenue_rooms": 4737.19,
+    "revenue_fnb": 865.71,
+    "revenue_other": 179.57,
+    "costs_total": 3541.13,
+    "occupancy_pct": 78.8,
+    "adr": 143.12,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-08",
+    "revenue_rooms": 4991.7,
+    "revenue_fnb": 1046.22,
+    "revenue_other": 170.96,
+    "costs_total": 3695.1,
+    "occupancy_pct": 86.4,
+    "adr": 137.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-09",
+    "revenue_rooms": 5315.84,
+    "revenue_fnb": 1054.39,
+    "revenue_other": 312.08,
+    "costs_total": 4032.1,
+    "occupancy_pct": 91.8,
+    "adr": 137.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-10",
+    "revenue_rooms": 5640.62,
+    "revenue_fnb": 1158.01,
+    "revenue_other": 257.07,
+    "costs_total": 4098.52,
+    "occupancy_pct": 96.0,
+    "adr": 139.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-11",
+    "revenue_rooms": 5134.15,
+    "revenue_fnb": 959.45,
+    "revenue_other": 234.18,
+    "costs_total": 3737.47,
+    "occupancy_pct": 87.4,
+    "adr": 139.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-12",
+    "revenue_rooms": 4669.34,
+    "revenue_fnb": 878.72,
+    "revenue_other": 280.07,
+    "costs_total": 3561.37,
+    "occupancy_pct": 78.6,
+    "adr": 141.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-13",
+    "revenue_rooms": 4786.86,
+    "revenue_fnb": 1049.77,
+    "revenue_other": 162.3,
+    "costs_total": 3542.11,
+    "occupancy_pct": 79.7,
+    "adr": 142.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-14",
+    "revenue_rooms": 4674.91,
+    "revenue_fnb": 961.47,
+    "revenue_other": 230.79,
+    "costs_total": 3561.23,
+    "occupancy_pct": 81.2,
+    "adr": 137.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-15",
+    "revenue_rooms": 4851.33,
+    "revenue_fnb": 1075.13,
+    "revenue_other": 257.79,
+    "costs_total": 3738.1,
+    "occupancy_pct": 82.3,
+    "adr": 140.43,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-16",
+    "revenue_rooms": 5500.6,
+    "revenue_fnb": 1149.42,
+    "revenue_other": 300.1,
+    "costs_total": 4307.06,
+    "occupancy_pct": 95.9,
+    "adr": 136.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-17",
+    "revenue_rooms": 5704.23,
+    "revenue_fnb": 1200.45,
+    "revenue_other": 288.28,
+    "costs_total": 4289.97,
+    "occupancy_pct": 97.0,
+    "adr": 139.98,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-18",
+    "revenue_rooms": 5333.14,
+    "revenue_fnb": 1114.06,
+    "revenue_other": 318.59,
+    "costs_total": 4167.97,
+    "occupancy_pct": 88.7,
+    "adr": 143.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-19",
+    "revenue_rooms": 4543.92,
+    "revenue_fnb": 931.1,
+    "revenue_other": 246.12,
+    "costs_total": 3350.36,
+    "occupancy_pct": 78.6,
+    "adr": 137.68,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-20",
+    "revenue_rooms": 4910.89,
+    "revenue_fnb": 1124.18,
+    "revenue_other": 213.07,
+    "costs_total": 3907.31,
+    "occupancy_pct": 81.7,
+    "adr": 143.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-21",
+    "revenue_rooms": 4730.01,
+    "revenue_fnb": 861.62,
+    "revenue_other": 185.21,
+    "costs_total": 3525.81,
+    "occupancy_pct": 82.5,
+    "adr": 136.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-22",
+    "revenue_rooms": 4850.47,
+    "revenue_fnb": 1098.46,
+    "revenue_other": 254.63,
+    "costs_total": 3720.91,
+    "occupancy_pct": 83.0,
+    "adr": 139.13,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-23",
+    "revenue_rooms": 5664.32,
+    "revenue_fnb": 1192.82,
+    "revenue_other": 319.47,
+    "costs_total": 4201.7,
+    "occupancy_pct": 96.0,
+    "adr": 140.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-24",
+    "revenue_rooms": 5844.63,
+    "revenue_fnb": 1309.1,
+    "revenue_other": 220.26,
+    "costs_total": 4389.53,
+    "occupancy_pct": 97.8,
+    "adr": 142.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-25",
+    "revenue_rooms": 5282.76,
+    "revenue_fnb": 1066.87,
+    "revenue_other": 191.17,
+    "costs_total": 4092.17,
+    "occupancy_pct": 88.2,
+    "adr": 142.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-26",
+    "revenue_rooms": 4911.6,
+    "revenue_fnb": 902.7,
+    "revenue_other": 216.17,
+    "costs_total": 3624.59,
+    "occupancy_pct": 82.6,
+    "adr": 141.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-27",
+    "revenue_rooms": 4803.83,
+    "revenue_fnb": 869.05,
+    "revenue_other": 210.39,
+    "costs_total": 3532.45,
+    "occupancy_pct": 79.9,
+    "adr": 143.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-28",
+    "revenue_rooms": 4779.36,
+    "revenue_fnb": 1061.46,
+    "revenue_other": 234.06,
+    "costs_total": 3622.19,
+    "occupancy_pct": 81.6,
+    "adr": 139.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-29",
+    "revenue_rooms": 4732.75,
+    "revenue_fnb": 1044.64,
+    "revenue_other": 155.52,
+    "costs_total": 3600.01,
+    "occupancy_pct": 82.9,
+    "adr": 135.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-30",
+    "revenue_rooms": 5602.04,
+    "revenue_fnb": 1232.86,
+    "revenue_other": 335.69,
+    "costs_total": 4386.32,
+    "occupancy_pct": 95.6,
+    "adr": 139.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-08-31",
+    "revenue_rooms": 5799.72,
+    "revenue_fnb": 1205.33,
+    "revenue_other": 207.9,
+    "costs_total": 4420.8,
+    "occupancy_pct": 97.9,
+    "adr": 141.1,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-01",
+    "revenue_rooms": 4669.8,
+    "revenue_fnb": 971.21,
+    "revenue_other": 237.82,
+    "costs_total": 3589.03,
+    "occupancy_pct": 80.8,
+    "adr": 137.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-02",
+    "revenue_rooms": 3969.69,
+    "revenue_fnb": 902.64,
+    "revenue_other": 127.25,
+    "costs_total": 3038.24,
+    "occupancy_pct": 71.4,
+    "adr": 132.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-03",
+    "revenue_rooms": 3985.75,
+    "revenue_fnb": 852.15,
+    "revenue_other": 194.1,
+    "costs_total": 3083.22,
+    "occupancy_pct": 69.8,
+    "adr": 136.03,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-04",
+    "revenue_rooms": 3965.69,
+    "revenue_fnb": 787.96,
+    "revenue_other": 220.42,
+    "costs_total": 2980.74,
+    "occupancy_pct": 72.4,
+    "adr": 130.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-05",
+    "revenue_rooms": 4463.12,
+    "revenue_fnb": 935.91,
+    "revenue_other": 265.29,
+    "costs_total": 3538.23,
+    "occupancy_pct": 77.1,
+    "adr": 137.77,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-06",
+    "revenue_rooms": 4779.47,
+    "revenue_fnb": 879.82,
+    "revenue_other": 187.39,
+    "costs_total": 3481.22,
+    "occupancy_pct": 85.4,
+    "adr": 133.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-07",
+    "revenue_rooms": 5415.44,
+    "revenue_fnb": 1125.45,
+    "revenue_other": 207.44,
+    "costs_total": 4044.14,
+    "occupancy_pct": 93.2,
+    "adr": 138.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-08",
+    "revenue_rooms": 4429.48,
+    "revenue_fnb": 972.75,
+    "revenue_other": 135.37,
+    "costs_total": 3354.87,
+    "occupancy_pct": 77.3,
+    "adr": 136.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-09",
+    "revenue_rooms": 3996.61,
+    "revenue_fnb": 796.39,
+    "revenue_other": 120.84,
+    "costs_total": 2991.12,
+    "occupancy_pct": 70.5,
+    "adr": 134.88,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-10",
+    "revenue_rooms": 4259.3,
+    "revenue_fnb": 810.4,
+    "revenue_other": 216.34,
+    "costs_total": 3200.81,
+    "occupancy_pct": 73.9,
+    "adr": 137.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-11",
+    "revenue_rooms": 4003.54,
+    "revenue_fnb": 739.37,
+    "revenue_other": 164.49,
+    "costs_total": 3043.67,
+    "occupancy_pct": 70.8,
+    "adr": 134.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-12",
+    "revenue_rooms": 4407.55,
+    "revenue_fnb": 1005.13,
+    "revenue_other": 141.42,
+    "costs_total": 3353.26,
+    "occupancy_pct": 78.0,
+    "adr": 134.51,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-13",
+    "revenue_rooms": 4976.23,
+    "revenue_fnb": 1134.36,
+    "revenue_other": 197.4,
+    "costs_total": 3805.92,
+    "occupancy_pct": 89.4,
+    "adr": 132.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-14",
+    "revenue_rooms": 5210.58,
+    "revenue_fnb": 976.96,
+    "revenue_other": 311.84,
+    "costs_total": 4040.82,
+    "occupancy_pct": 91.0,
+    "adr": 136.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-15",
+    "revenue_rooms": 4344.81,
+    "revenue_fnb": 811.34,
+    "revenue_other": 147.3,
+    "costs_total": 3293.66,
+    "occupancy_pct": 79.2,
+    "adr": 130.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-16",
+    "revenue_rooms": 3981.84,
+    "revenue_fnb": 732.6,
+    "revenue_other": 236.73,
+    "costs_total": 2950.0,
+    "occupancy_pct": 70.3,
+    "adr": 134.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-17",
+    "revenue_rooms": 4304.03,
+    "revenue_fnb": 916.26,
+    "revenue_other": 254.1,
+    "costs_total": 3338.7,
+    "occupancy_pct": 74.2,
+    "adr": 138.1,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-18",
+    "revenue_rooms": 4217.26,
+    "revenue_fnb": 846.76,
+    "revenue_other": 190.85,
+    "costs_total": 3279.92,
+    "occupancy_pct": 75.9,
+    "adr": 132.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-19",
+    "revenue_rooms": 4381.64,
+    "revenue_fnb": 989.97,
+    "revenue_other": 138.97,
+    "costs_total": 3444.46,
+    "occupancy_pct": 76.3,
+    "adr": 136.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-20",
+    "revenue_rooms": 5053.12,
+    "revenue_fnb": 972.76,
+    "revenue_other": 172.5,
+    "costs_total": 3631.97,
+    "occupancy_pct": 87.4,
+    "adr": 137.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-21",
+    "revenue_rooms": 5098.98,
+    "revenue_fnb": 1085.51,
+    "revenue_other": 283.24,
+    "costs_total": 3809.99,
+    "occupancy_pct": 92.5,
+    "adr": 131.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-22",
+    "revenue_rooms": 4318.05,
+    "revenue_fnb": 975.88,
+    "revenue_other": 196.04,
+    "costs_total": 3209.11,
+    "occupancy_pct": 76.8,
+    "adr": 133.91,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-23",
+    "revenue_rooms": 3971.84,
+    "revenue_fnb": 747.34,
+    "revenue_other": 183.98,
+    "costs_total": 3013.54,
+    "occupancy_pct": 70.9,
+    "adr": 133.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-24",
+    "revenue_rooms": 3925.95,
+    "revenue_fnb": 889.51,
+    "revenue_other": 160.88,
+    "costs_total": 2991.8,
+    "occupancy_pct": 69.1,
+    "adr": 135.22,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-25",
+    "revenue_rooms": 4278.26,
+    "revenue_fnb": 788.91,
+    "revenue_other": 194.22,
+    "costs_total": 3198.94,
+    "occupancy_pct": 75.3,
+    "adr": 135.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-26",
+    "revenue_rooms": 4509.37,
+    "revenue_fnb": 1002.31,
+    "revenue_other": 222.08,
+    "costs_total": 3577.23,
+    "occupancy_pct": 78.5,
+    "adr": 136.69,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-27",
+    "revenue_rooms": 4793.9,
+    "revenue_fnb": 928.97,
+    "revenue_other": 256.94,
+    "costs_total": 3554.14,
+    "occupancy_pct": 86.2,
+    "adr": 132.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-28",
+    "revenue_rooms": 5349.16,
+    "revenue_fnb": 1087.88,
+    "revenue_other": 259.48,
+    "costs_total": 4133.32,
+    "occupancy_pct": 92.6,
+    "adr": 137.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-29",
+    "revenue_rooms": 4729.03,
+    "revenue_fnb": 1015.24,
+    "revenue_other": 191.78,
+    "costs_total": 3551.81,
+    "occupancy_pct": 81.9,
+    "adr": 137.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-09-30",
+    "revenue_rooms": 4018.02,
+    "revenue_fnb": 904.2,
+    "revenue_other": 167.31,
+    "costs_total": 3026.71,
+    "occupancy_pct": 71.2,
+    "adr": 134.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-01",
+    "revenue_rooms": 3405.14,
+    "revenue_fnb": 670.33,
+    "revenue_other": 141.99,
+    "costs_total": 2619.43,
+    "occupancy_pct": 63.3,
+    "adr": 128.03,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-02",
+    "revenue_rooms": 3627.44,
+    "revenue_fnb": 793.88,
+    "revenue_other": 181.15,
+    "costs_total": 2865.54,
+    "occupancy_pct": 67.9,
+    "adr": 127.2,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-03",
+    "revenue_rooms": 3721.16,
+    "revenue_fnb": 687.01,
+    "revenue_other": 187.61,
+    "costs_total": 2784.92,
+    "occupancy_pct": 67.9,
+    "adr": 130.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-04",
+    "revenue_rooms": 4492.84,
+    "revenue_fnb": 944.64,
+    "revenue_other": 213.04,
+    "costs_total": 3535.33,
+    "occupancy_pct": 80.4,
+    "adr": 133.06,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-05",
+    "revenue_rooms": 4681.73,
+    "revenue_fnb": 1060.53,
+    "revenue_other": 216.39,
+    "costs_total": 3479.31,
+    "occupancy_pct": 87.4,
+    "adr": 127.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-06",
+    "revenue_rooms": 4069.72,
+    "revenue_fnb": 890.4,
+    "revenue_other": 232.67,
+    "costs_total": 3239.11,
+    "occupancy_pct": 73.6,
+    "adr": 131.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-07",
+    "revenue_rooms": 3748.1,
+    "revenue_fnb": 774.05,
+    "revenue_other": 147.3,
+    "costs_total": 2800.71,
+    "occupancy_pct": 66.5,
+    "adr": 134.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-08",
+    "revenue_rooms": 3553.95,
+    "revenue_fnb": 696.16,
+    "revenue_other": 140.43,
+    "costs_total": 2652.08,
+    "occupancy_pct": 65.6,
+    "adr": 129.04,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-09",
+    "revenue_rooms": 3658.28,
+    "revenue_fnb": 676.59,
+    "revenue_other": 177.26,
+    "costs_total": 2751.59,
+    "occupancy_pct": 66.0,
+    "adr": 131.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-10",
+    "revenue_rooms": 4123.44,
+    "revenue_fnb": 838.68,
+    "revenue_other": 214.75,
+    "costs_total": 3071.07,
+    "occupancy_pct": 73.2,
+    "adr": 134.1,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-11",
+    "revenue_rooms": 4417.57,
+    "revenue_fnb": 979.96,
+    "revenue_other": 243.38,
+    "costs_total": 3326.93,
+    "occupancy_pct": 80.4,
+    "adr": 130.8,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-12",
+    "revenue_rooms": 4904.24,
+    "revenue_fnb": 950.32,
+    "revenue_other": 271.18,
+    "costs_total": 3845.53,
+    "occupancy_pct": 87.7,
+    "adr": 133.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-13",
+    "revenue_rooms": 4036.87,
+    "revenue_fnb": 816.44,
+    "revenue_other": 231.34,
+    "costs_total": 3010.0,
+    "occupancy_pct": 71.8,
+    "adr": 133.9,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-14",
+    "revenue_rooms": 3632.06,
+    "revenue_fnb": 656.95,
+    "revenue_other": 204.53,
+    "costs_total": 2793.52,
+    "occupancy_pct": 67.8,
+    "adr": 127.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-15",
+    "revenue_rooms": 3772.88,
+    "revenue_fnb": 858.88,
+    "revenue_other": 148.95,
+    "costs_total": 2808.48,
+    "occupancy_pct": 68.7,
+    "adr": 130.7,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-16",
+    "revenue_rooms": 3814.97,
+    "revenue_fnb": 778.0,
+    "revenue_other": 178.47,
+    "costs_total": 2883.66,
+    "occupancy_pct": 68.4,
+    "adr": 132.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-17",
+    "revenue_rooms": 3963.16,
+    "revenue_fnb": 898.71,
+    "revenue_other": 214.34,
+    "costs_total": 3173.69,
+    "occupancy_pct": 73.2,
+    "adr": 128.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-18",
+    "revenue_rooms": 4643.34,
+    "revenue_fnb": 1041.96,
+    "revenue_other": 198.46,
+    "costs_total": 3552.28,
+    "occupancy_pct": 83.8,
+    "adr": 131.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-19",
+    "revenue_rooms": 4413.53,
+    "revenue_fnb": 899.21,
+    "revenue_other": 258.0,
+    "costs_total": 3250.4,
+    "occupancy_pct": 82.4,
+    "adr": 127.58,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-20",
+    "revenue_rooms": 4268.03,
+    "revenue_fnb": 883.1,
+    "revenue_other": 190.87,
+    "costs_total": 3361.39,
+    "occupancy_pct": 75.7,
+    "adr": 134.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-21",
+    "revenue_rooms": 3691.16,
+    "revenue_fnb": 834.81,
+    "revenue_other": 129.64,
+    "costs_total": 2780.41,
+    "occupancy_pct": 67.3,
+    "adr": 130.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-22",
+    "revenue_rooms": 3506.6,
+    "revenue_fnb": 677.39,
+    "revenue_other": 136.87,
+    "costs_total": 2512.68,
+    "occupancy_pct": 65.7,
+    "adr": 127.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-23",
+    "revenue_rooms": 3560.42,
+    "revenue_fnb": 721.34,
+    "revenue_other": 107.2,
+    "costs_total": 2573.52,
+    "occupancy_pct": 65.6,
+    "adr": 129.29,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-24",
+    "revenue_rooms": 4154.78,
+    "revenue_fnb": 900.6,
+    "revenue_other": 248.58,
+    "costs_total": 3299.97,
+    "occupancy_pct": 73.4,
+    "adr": 134.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-25",
+    "revenue_rooms": 4549.14,
+    "revenue_fnb": 865.6,
+    "revenue_other": 177.51,
+    "costs_total": 3448.14,
+    "occupancy_pct": 83.6,
+    "adr": 129.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-26",
+    "revenue_rooms": 4755.16,
+    "revenue_fnb": 1087.04,
+    "revenue_other": 168.08,
+    "costs_total": 3662.65,
+    "occupancy_pct": 84.0,
+    "adr": 134.75,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-27",
+    "revenue_rooms": 4285.55,
+    "revenue_fnb": 893.16,
+    "revenue_other": 137.85,
+    "costs_total": 3279.35,
+    "occupancy_pct": 75.5,
+    "adr": 135.15,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-28",
+    "revenue_rooms": 3878.34,
+    "revenue_fnb": 814.8,
+    "revenue_other": 155.25,
+    "costs_total": 2994.8,
+    "occupancy_pct": 68.7,
+    "adr": 134.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-29",
+    "revenue_rooms": 3694.85,
+    "revenue_fnb": 759.11,
+    "revenue_other": 201.89,
+    "costs_total": 2771.26,
+    "occupancy_pct": 68.0,
+    "adr": 129.46,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-30",
+    "revenue_rooms": 3877.61,
+    "revenue_fnb": 834.63,
+    "revenue_other": 168.08,
+    "costs_total": 3051.17,
+    "occupancy_pct": 68.4,
+    "adr": 134.9,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-10-31",
+    "revenue_rooms": 3705.36,
+    "revenue_fnb": 766.98,
+    "revenue_other": 121.01,
+    "costs_total": 2856.23,
+    "occupancy_pct": 68.5,
+    "adr": 128.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-01",
+    "revenue_rooms": 4107.34,
+    "revenue_fnb": 760.84,
+    "revenue_other": 206.54,
+    "costs_total": 3026.48,
+    "occupancy_pct": 75.4,
+    "adr": 129.69,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-02",
+    "revenue_rooms": 4110.03,
+    "revenue_fnb": 754.57,
+    "revenue_other": 166.15,
+    "costs_total": 2992.73,
+    "occupancy_pct": 78.0,
+    "adr": 125.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-03",
+    "revenue_rooms": 3404.99,
+    "revenue_fnb": 721.61,
+    "revenue_other": 184.04,
+    "costs_total": 2631.57,
+    "occupancy_pct": 63.7,
+    "adr": 127.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-04",
+    "revenue_rooms": 3248.45,
+    "revenue_fnb": 614.1,
+    "revenue_other": 102.69,
+    "costs_total": 2402.62,
+    "occupancy_pct": 59.7,
+    "adr": 129.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-05",
+    "revenue_rooms": 3017.61,
+    "revenue_fnb": 604.34,
+    "revenue_other": 96.06,
+    "costs_total": 2294.38,
+    "occupancy_pct": 56.4,
+    "adr": 127.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-06",
+    "revenue_rooms": 3117.73,
+    "revenue_fnb": 712.97,
+    "revenue_other": 116.61,
+    "costs_total": 2413.6,
+    "occupancy_pct": 59.0,
+    "adr": 125.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-07",
+    "revenue_rooms": 3186.74,
+    "revenue_fnb": 584.16,
+    "revenue_other": 136.57,
+    "costs_total": 2303.35,
+    "occupancy_pct": 60.3,
+    "adr": 125.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-08",
+    "revenue_rooms": 3794.61,
+    "revenue_fnb": 753.82,
+    "revenue_other": 199.67,
+    "costs_total": 2930.75,
+    "occupancy_pct": 70.4,
+    "adr": 128.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-09",
+    "revenue_rooms": 3881.45,
+    "revenue_fnb": 739.91,
+    "revenue_other": 228.38,
+    "costs_total": 3003.06,
+    "occupancy_pct": 74.7,
+    "adr": 123.72,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-10",
+    "revenue_rooms": 3419.78,
+    "revenue_fnb": 673.01,
+    "revenue_other": 109.61,
+    "costs_total": 2596.83,
+    "occupancy_pct": 65.4,
+    "adr": 124.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-11",
+    "revenue_rooms": 3247.1,
+    "revenue_fnb": 642.96,
+    "revenue_other": 134.99,
+    "costs_total": 2338.0,
+    "occupancy_pct": 59.5,
+    "adr": 129.9,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-12",
+    "revenue_rooms": 2973.48,
+    "revenue_fnb": 565.02,
+    "revenue_other": 164.64,
+    "costs_total": 2293.85,
+    "occupancy_pct": 57.0,
+    "adr": 124.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-13",
+    "revenue_rooms": 3099.43,
+    "revenue_fnb": 670.06,
+    "revenue_other": 117.91,
+    "costs_total": 2332.99,
+    "occupancy_pct": 58.8,
+    "adr": 125.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-14",
+    "revenue_rooms": 3253.58,
+    "revenue_fnb": 652.39,
+    "revenue_other": 110.68,
+    "costs_total": 2514.68,
+    "occupancy_pct": 61.7,
+    "adr": 125.52,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-15",
+    "revenue_rooms": 3920.67,
+    "revenue_fnb": 826.6,
+    "revenue_other": 171.09,
+    "costs_total": 2902.39,
+    "occupancy_pct": 76.3,
+    "adr": 122.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-16",
+    "revenue_rooms": 4159.86,
+    "revenue_fnb": 751.46,
+    "revenue_other": 245.42,
+    "costs_total": 3238.63,
+    "occupancy_pct": 79.9,
+    "adr": 124.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-17",
+    "revenue_rooms": 3536.17,
+    "revenue_fnb": 647.03,
+    "revenue_other": 137.06,
+    "costs_total": 2560.63,
+    "occupancy_pct": 66.0,
+    "adr": 127.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-18",
+    "revenue_rooms": 3145.68,
+    "revenue_fnb": 604.48,
+    "revenue_other": 176.26,
+    "costs_total": 2421.54,
+    "occupancy_pct": 59.0,
+    "adr": 126.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-19",
+    "revenue_rooms": 3043.88,
+    "revenue_fnb": 592.17,
+    "revenue_other": 94.82,
+    "costs_total": 2349.67,
+    "occupancy_pct": 56.6,
+    "adr": 128.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-20",
+    "revenue_rooms": 3280.77,
+    "revenue_fnb": 745.79,
+    "revenue_other": 107.59,
+    "costs_total": 2560.48,
+    "occupancy_pct": 61.6,
+    "adr": 126.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-21",
+    "revenue_rooms": 3386.6,
+    "revenue_fnb": 683.22,
+    "revenue_other": 102.18,
+    "costs_total": 2492.58,
+    "occupancy_pct": 63.9,
+    "adr": 126.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-22",
+    "revenue_rooms": 3793.92,
+    "revenue_fnb": 735.83,
+    "revenue_other": 133.65,
+    "costs_total": 2870.77,
+    "occupancy_pct": 70.4,
+    "adr": 128.26,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-23",
+    "revenue_rooms": 4264.89,
+    "revenue_fnb": 884.13,
+    "revenue_other": 144.21,
+    "costs_total": 3119.53,
+    "occupancy_pct": 80.3,
+    "adr": 126.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-24",
+    "revenue_rooms": 3354.86,
+    "revenue_fnb": 743.27,
+    "revenue_other": 179.06,
+    "costs_total": 2676.84,
+    "occupancy_pct": 64.2,
+    "adr": 124.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-25",
+    "revenue_rooms": 2933.77,
+    "revenue_fnb": 633.05,
+    "revenue_other": 120.93,
+    "costs_total": 2157.6,
+    "occupancy_pct": 56.8,
+    "adr": 122.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-26",
+    "revenue_rooms": 3044.62,
+    "revenue_fnb": 610.49,
+    "revenue_other": 150.45,
+    "costs_total": 2274.14,
+    "occupancy_pct": 56.1,
+    "adr": 129.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-27",
+    "revenue_rooms": 3192.15,
+    "revenue_fnb": 614.79,
+    "revenue_other": 151.88,
+    "costs_total": 2345.73,
+    "occupancy_pct": 61.6,
+    "adr": 123.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-28",
+    "revenue_rooms": 3393.86,
+    "revenue_fnb": 628.86,
+    "revenue_other": 151.18,
+    "costs_total": 2572.68,
+    "occupancy_pct": 63.0,
+    "adr": 128.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-29",
+    "revenue_rooms": 3992.43,
+    "revenue_fnb": 819.88,
+    "revenue_other": 145.79,
+    "costs_total": 3038.33,
+    "occupancy_pct": 75.3,
+    "adr": 126.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-11-30",
+    "revenue_rooms": 4161.84,
+    "revenue_fnb": 895.63,
+    "revenue_other": 189.07,
+    "costs_total": 3282.04,
+    "occupancy_pct": 79.5,
+    "adr": 124.71,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-01",
+    "revenue_rooms": 3734.8,
+    "revenue_fnb": 811.87,
+    "revenue_other": 120.46,
+    "costs_total": 2880.37,
+    "occupancy_pct": 67.6,
+    "adr": 131.6,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-02",
+    "revenue_rooms": 3381.68,
+    "revenue_fnb": 640.92,
+    "revenue_other": 176.29,
+    "costs_total": 2627.09,
+    "occupancy_pct": 63.1,
+    "adr": 127.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-03",
+    "revenue_rooms": 3456.04,
+    "revenue_fnb": 693.52,
+    "revenue_other": 192.38,
+    "costs_total": 2594.85,
+    "occupancy_pct": 63.7,
+    "adr": 129.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-04",
+    "revenue_rooms": 3460.81,
+    "revenue_fnb": 704.24,
+    "revenue_other": 139.1,
+    "costs_total": 2616.76,
+    "occupancy_pct": 64.5,
+    "adr": 127.72,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-05",
+    "revenue_rooms": 3500.62,
+    "revenue_fnb": 680.0,
+    "revenue_other": 188.89,
+    "costs_total": 2613.43,
+    "occupancy_pct": 66.6,
+    "adr": 125.09,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-06",
+    "revenue_rooms": 3968.63,
+    "revenue_fnb": 786.03,
+    "revenue_other": 231.62,
+    "costs_total": 2975.61,
+    "occupancy_pct": 75.1,
+    "adr": 125.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-07",
+    "revenue_rooms": 4406.77,
+    "revenue_fnb": 910.57,
+    "revenue_other": 170.86,
+    "costs_total": 3432.61,
+    "occupancy_pct": 82.4,
+    "adr": 127.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-08",
+    "revenue_rooms": 3948.16,
+    "revenue_fnb": 837.38,
+    "revenue_other": 126.63,
+    "costs_total": 3052.08,
+    "occupancy_pct": 72.1,
+    "adr": 130.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-09",
+    "revenue_rooms": 3447.46,
+    "revenue_fnb": 748.18,
+    "revenue_other": 166.01,
+    "costs_total": 2687.73,
+    "occupancy_pct": 62.7,
+    "adr": 131.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-10",
+    "revenue_rooms": 3314.94,
+    "revenue_fnb": 678.77,
+    "revenue_other": 114.37,
+    "costs_total": 2385.91,
+    "occupancy_pct": 60.6,
+    "adr": 130.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-11",
+    "revenue_rooms": 3689.3,
+    "revenue_fnb": 691.29,
+    "revenue_other": 183.03,
+    "costs_total": 2846.36,
+    "occupancy_pct": 66.4,
+    "adr": 132.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-12",
+    "revenue_rooms": 3537.29,
+    "revenue_fnb": 682.1,
+    "revenue_other": 185.7,
+    "costs_total": 2593.14,
+    "occupancy_pct": 64.3,
+    "adr": 130.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-13",
+    "revenue_rooms": 4247.62,
+    "revenue_fnb": 842.29,
+    "revenue_other": 162.3,
+    "costs_total": 3106.74,
+    "occupancy_pct": 79.3,
+    "adr": 127.52,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-14",
+    "revenue_rooms": 4457.51,
+    "revenue_fnb": 865.1,
+    "revenue_other": 216.27,
+    "costs_total": 3325.4,
+    "occupancy_pct": 84.5,
+    "adr": 125.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-15",
+    "revenue_rooms": 3621.33,
+    "revenue_fnb": 699.26,
+    "revenue_other": 179.35,
+    "costs_total": 2785.04,
+    "occupancy_pct": 67.2,
+    "adr": 128.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-16",
+    "revenue_rooms": 3375.99,
+    "revenue_fnb": 765.95,
+    "revenue_other": 163.87,
+    "costs_total": 2498.79,
+    "occupancy_pct": 60.5,
+    "adr": 132.77,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-17",
+    "revenue_rooms": 3466.49,
+    "revenue_fnb": 656.84,
+    "revenue_other": 195.06,
+    "costs_total": 2508.93,
+    "occupancy_pct": 63.5,
+    "adr": 129.88,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-18",
+    "revenue_rooms": 3276.7,
+    "revenue_fnb": 738.16,
+    "revenue_other": 126.46,
+    "costs_total": 2603.26,
+    "occupancy_pct": 61.9,
+    "adr": 125.98,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-19",
+    "revenue_rooms": 3480.84,
+    "revenue_fnb": 755.58,
+    "revenue_other": 206.93,
+    "costs_total": 2732.99,
+    "occupancy_pct": 65.5,
+    "adr": 126.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-20",
+    "revenue_rooms": 4369.1,
+    "revenue_fnb": 982.48,
+    "revenue_other": 251.55,
+    "costs_total": 3410.09,
+    "occupancy_pct": 79.8,
+    "adr": 130.34,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-21",
+    "revenue_rooms": 4391.88,
+    "revenue_fnb": 941.72,
+    "revenue_other": 155.54,
+    "costs_total": 3199.26,
+    "occupancy_pct": 79.6,
+    "adr": 131.29,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-22",
+    "revenue_rooms": 3976.47,
+    "revenue_fnb": 863.83,
+    "revenue_other": 196.56,
+    "costs_total": 2999.67,
+    "occupancy_pct": 71.4,
+    "adr": 132.54,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-23",
+    "revenue_rooms": 3376.59,
+    "revenue_fnb": 653.47,
+    "revenue_other": 191.08,
+    "costs_total": 2475.86,
+    "occupancy_pct": 63.6,
+    "adr": 126.35,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-24",
+    "revenue_rooms": 3309.83,
+    "revenue_fnb": 753.62,
+    "revenue_other": 148.5,
+    "costs_total": 2513.85,
+    "occupancy_pct": 60.2,
+    "adr": 130.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-25",
+    "revenue_rooms": 3374.89,
+    "revenue_fnb": 672.25,
+    "revenue_other": 152.53,
+    "costs_total": 2448.97,
+    "occupancy_pct": 62.1,
+    "adr": 129.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-26",
+    "revenue_rooms": 3737.63,
+    "revenue_fnb": 699.73,
+    "revenue_other": 155.59,
+    "costs_total": 2824.84,
+    "occupancy_pct": 68.2,
+    "adr": 130.58,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-27",
+    "revenue_rooms": 4009.43,
+    "revenue_fnb": 797.37,
+    "revenue_other": 210.56,
+    "costs_total": 3078.62,
+    "occupancy_pct": 75.2,
+    "adr": 127.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-28",
+    "revenue_rooms": 4356.31,
+    "revenue_fnb": 976.55,
+    "revenue_other": 260.17,
+    "costs_total": 3508.32,
+    "occupancy_pct": 82.1,
+    "adr": 126.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-29",
+    "revenue_rooms": 3657.6,
+    "revenue_fnb": 807.13,
+    "revenue_other": 188.87,
+    "costs_total": 2750.87,
+    "occupancy_pct": 67.9,
+    "adr": 128.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-30",
+    "revenue_rooms": 3564.24,
+    "revenue_fnb": 753.89,
+    "revenue_other": 180.19,
+    "costs_total": 2732.06,
+    "occupancy_pct": 64.8,
+    "adr": 130.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2024-12-31",
+    "revenue_rooms": 3157.01,
+    "revenue_fnb": 659.36,
+    "revenue_other": 141.68,
+    "costs_total": 2405.21,
+    "occupancy_pct": 59.6,
+    "adr": 126.06,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-01",
+    "revenue_rooms": 2921.84,
+    "revenue_fnb": 605.28,
+    "revenue_other": 122.73,
+    "costs_total": 2185.87,
+    "occupancy_pct": 56.8,
+    "adr": 122.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-02",
+    "revenue_rooms": 3118.0,
+    "revenue_fnb": 705.34,
+    "revenue_other": 186.56,
+    "costs_total": 2511.44,
+    "occupancy_pct": 58.8,
+    "adr": 126.29,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-03",
+    "revenue_rooms": 3689.81,
+    "revenue_fnb": 845.41,
+    "revenue_other": 175.36,
+    "costs_total": 2806.39,
+    "occupancy_pct": 69.5,
+    "adr": 126.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-04",
+    "revenue_rooms": 3680.6,
+    "revenue_fnb": 801.43,
+    "revenue_other": 129.74,
+    "costs_total": 2766.24,
+    "occupancy_pct": 70.9,
+    "adr": 123.65,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-05",
+    "revenue_rooms": 3041.36,
+    "revenue_fnb": 687.43,
+    "revenue_other": 147.98,
+    "costs_total": 2291.07,
+    "occupancy_pct": 59.0,
+    "adr": 122.71,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-06",
+    "revenue_rooms": 2687.34,
+    "revenue_fnb": 575.6,
+    "revenue_other": 82.43,
+    "costs_total": 2032.49,
+    "occupancy_pct": 52.5,
+    "adr": 121.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-07",
+    "revenue_rooms": 2583.41,
+    "revenue_fnb": 485.53,
+    "revenue_other": 92.72,
+    "costs_total": 1880.2,
+    "occupancy_pct": 50.2,
+    "adr": 122.43,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-08",
+    "revenue_rooms": 2889.38,
+    "revenue_fnb": 521.45,
+    "revenue_other": 149.98,
+    "costs_total": 2186.29,
+    "occupancy_pct": 55.0,
+    "adr": 125.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-09",
+    "revenue_rooms": 2887.81,
+    "revenue_fnb": 538.6,
+    "revenue_other": 158.75,
+    "costs_total": 2134.26,
+    "occupancy_pct": 55.1,
+    "adr": 124.8,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-10",
+    "revenue_rooms": 3687.1,
+    "revenue_fnb": 724.36,
+    "revenue_other": 116.76,
+    "costs_total": 2764.21,
+    "occupancy_pct": 70.3,
+    "adr": 124.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-11",
+    "revenue_rooms": 3503.11,
+    "revenue_fnb": 681.48,
+    "revenue_other": 130.18,
+    "costs_total": 2551.05,
+    "occupancy_pct": 69.3,
+    "adr": 120.36,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-12",
+    "revenue_rooms": 3150.73,
+    "revenue_fnb": 664.31,
+    "revenue_other": 144.65,
+    "costs_total": 2326.51,
+    "occupancy_pct": 61.8,
+    "adr": 121.35,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-13",
+    "revenue_rooms": 2643.69,
+    "revenue_fnb": 557.7,
+    "revenue_other": 91.95,
+    "costs_total": 1990.88,
+    "occupancy_pct": 50.2,
+    "adr": 125.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-14",
+    "revenue_rooms": 2829.19,
+    "revenue_fnb": 640.59,
+    "revenue_other": 150.39,
+    "costs_total": 2225.14,
+    "occupancy_pct": 53.5,
+    "adr": 125.82,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-15",
+    "revenue_rooms": 2827.28,
+    "revenue_fnb": 611.31,
+    "revenue_other": 136.72,
+    "costs_total": 2164.39,
+    "occupancy_pct": 55.5,
+    "adr": 121.24,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-16",
+    "revenue_rooms": 2798.73,
+    "revenue_fnb": 544.46,
+    "revenue_other": 144.7,
+    "costs_total": 2196.02,
+    "occupancy_pct": 55.7,
+    "adr": 119.7,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-17",
+    "revenue_rooms": 3665.01,
+    "revenue_fnb": 810.39,
+    "revenue_other": 198.5,
+    "costs_total": 2802.53,
+    "occupancy_pct": 70.1,
+    "adr": 124.41,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-18",
+    "revenue_rooms": 3634.45,
+    "revenue_fnb": 751.54,
+    "revenue_other": 203.69,
+    "costs_total": 2741.7,
+    "occupancy_pct": 72.6,
+    "adr": 119.25,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-19",
+    "revenue_rooms": 3262.85,
+    "revenue_fnb": 602.96,
+    "revenue_other": 184.84,
+    "costs_total": 2361.05,
+    "occupancy_pct": 61.3,
+    "adr": 126.71,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-20",
+    "revenue_rooms": 2827.46,
+    "revenue_fnb": 510.82,
+    "revenue_other": 154.61,
+    "costs_total": 2110.23,
+    "occupancy_pct": 54.2,
+    "adr": 124.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-21",
+    "revenue_rooms": 2684.35,
+    "revenue_fnb": 550.49,
+    "revenue_other": 149.07,
+    "costs_total": 2082.16,
+    "occupancy_pct": 50.4,
+    "adr": 126.8,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-22",
+    "revenue_rooms": 2751.3,
+    "revenue_fnb": 570.12,
+    "revenue_other": 104.2,
+    "costs_total": 2071.93,
+    "occupancy_pct": 54.4,
+    "adr": 120.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-23",
+    "revenue_rooms": 2897.34,
+    "revenue_fnb": 573.75,
+    "revenue_other": 156.67,
+    "costs_total": 2257.84,
+    "occupancy_pct": 56.6,
+    "adr": 121.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-24",
+    "revenue_rooms": 3527.59,
+    "revenue_fnb": 659.06,
+    "revenue_other": 148.03,
+    "costs_total": 2565.41,
+    "occupancy_pct": 68.0,
+    "adr": 123.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-25",
+    "revenue_rooms": 3569.75,
+    "revenue_fnb": 801.0,
+    "revenue_other": 137.04,
+    "costs_total": 2783.92,
+    "occupancy_pct": 69.6,
+    "adr": 122.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-26",
+    "revenue_rooms": 3059.86,
+    "revenue_fnb": 689.92,
+    "revenue_other": 144.11,
+    "costs_total": 2450.89,
+    "occupancy_pct": 59.1,
+    "adr": 123.36,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-27",
+    "revenue_rooms": 2831.13,
+    "revenue_fnb": 540.68,
+    "revenue_other": 155.9,
+    "costs_total": 2064.16,
+    "occupancy_pct": 53.0,
+    "adr": 127.08,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-28",
+    "revenue_rooms": 2712.7,
+    "revenue_fnb": 510.76,
+    "revenue_other": 130.26,
+    "costs_total": 2003.21,
+    "occupancy_pct": 51.8,
+    "adr": 124.68,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-29",
+    "revenue_rooms": 2730.01,
+    "revenue_fnb": 587.94,
+    "revenue_other": 125.77,
+    "costs_total": 2020.27,
+    "occupancy_pct": 52.4,
+    "adr": 123.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-30",
+    "revenue_rooms": 3023.56,
+    "revenue_fnb": 653.41,
+    "revenue_other": 103.42,
+    "costs_total": 2336.99,
+    "occupancy_pct": 59.5,
+    "adr": 121.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-01-31",
+    "revenue_rooms": 3667.8,
+    "revenue_fnb": 661.61,
+    "revenue_other": 110.97,
+    "costs_total": 2692.96,
+    "occupancy_pct": 70.0,
+    "adr": 124.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-01",
+    "revenue_rooms": 3975.72,
+    "revenue_fnb": 889.46,
+    "revenue_other": 149.82,
+    "costs_total": 3072.98,
+    "occupancy_pct": 74.3,
+    "adr": 127.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-02",
+    "revenue_rooms": 3233.38,
+    "revenue_fnb": 693.48,
+    "revenue_other": 146.09,
+    "costs_total": 2471.06,
+    "occupancy_pct": 59.9,
+    "adr": 128.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-03",
+    "revenue_rooms": 2924.14,
+    "revenue_fnb": 531.3,
+    "revenue_other": 132.83,
+    "costs_total": 2144.47,
+    "occupancy_pct": 55.6,
+    "adr": 125.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-04",
+    "revenue_rooms": 2681.93,
+    "revenue_fnb": 598.27,
+    "revenue_other": 136.31,
+    "costs_total": 2146.84,
+    "occupancy_pct": 51.3,
+    "adr": 124.41,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-05",
+    "revenue_rooms": 2749.37,
+    "revenue_fnb": 507.33,
+    "revenue_other": 90.03,
+    "costs_total": 2041.7,
+    "occupancy_pct": 53.9,
+    "adr": 121.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-06",
+    "revenue_rooms": 3041.98,
+    "revenue_fnb": 595.41,
+    "revenue_other": 152.33,
+    "costs_total": 2265.9,
+    "occupancy_pct": 58.4,
+    "adr": 123.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-07",
+    "revenue_rooms": 3563.3,
+    "revenue_fnb": 800.34,
+    "revenue_other": 207.97,
+    "costs_total": 2807.86,
+    "occupancy_pct": 69.1,
+    "adr": 122.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-08",
+    "revenue_rooms": 3664.59,
+    "revenue_fnb": 822.52,
+    "revenue_other": 130.26,
+    "costs_total": 2845.63,
+    "occupancy_pct": 71.7,
+    "adr": 121.77,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-09",
+    "revenue_rooms": 3136.16,
+    "revenue_fnb": 648.75,
+    "revenue_other": 180.86,
+    "costs_total": 2463.81,
+    "occupancy_pct": 60.5,
+    "adr": 123.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-10",
+    "revenue_rooms": 2920.63,
+    "revenue_fnb": 632.34,
+    "revenue_other": 154.44,
+    "costs_total": 2293.97,
+    "occupancy_pct": 56.1,
+    "adr": 123.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-11",
+    "revenue_rooms": 2765.34,
+    "revenue_fnb": 563.41,
+    "revenue_other": 138.51,
+    "costs_total": 2016.16,
+    "occupancy_pct": 53.8,
+    "adr": 122.43,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-12",
+    "revenue_rooms": 2865.41,
+    "revenue_fnb": 627.66,
+    "revenue_other": 130.25,
+    "costs_total": 2165.28,
+    "occupancy_pct": 54.2,
+    "adr": 125.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-13",
+    "revenue_rooms": 3129.23,
+    "revenue_fnb": 702.89,
+    "revenue_other": 162.4,
+    "costs_total": 2317.3,
+    "occupancy_pct": 60.7,
+    "adr": 122.73,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-14",
+    "revenue_rooms": 3650.3,
+    "revenue_fnb": 788.59,
+    "revenue_other": 211.34,
+    "costs_total": 2839.06,
+    "occupancy_pct": 67.5,
+    "adr": 128.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-15",
+    "revenue_rooms": 3791.36,
+    "revenue_fnb": 866.63,
+    "revenue_other": 159.1,
+    "costs_total": 2834.26,
+    "occupancy_pct": 71.1,
+    "adr": 126.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-16",
+    "revenue_rooms": 3462.85,
+    "revenue_fnb": 696.22,
+    "revenue_other": 127.36,
+    "costs_total": 2565.33,
+    "occupancy_pct": 64.2,
+    "adr": 128.46,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-17",
+    "revenue_rooms": 2787.38,
+    "revenue_fnb": 515.92,
+    "revenue_other": 100.0,
+    "costs_total": 2104.17,
+    "occupancy_pct": 54.3,
+    "adr": 122.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-18",
+    "revenue_rooms": 2700.66,
+    "revenue_fnb": 529.01,
+    "revenue_other": 126.76,
+    "costs_total": 2079.99,
+    "occupancy_pct": 51.4,
+    "adr": 125.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-19",
+    "revenue_rooms": 2998.4,
+    "revenue_fnb": 557.16,
+    "revenue_other": 126.14,
+    "costs_total": 2139.14,
+    "occupancy_pct": 57.5,
+    "adr": 124.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-20",
+    "revenue_rooms": 3184.59,
+    "revenue_fnb": 716.49,
+    "revenue_other": 181.7,
+    "costs_total": 2410.96,
+    "occupancy_pct": 61.2,
+    "adr": 123.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-21",
+    "revenue_rooms": 3632.99,
+    "revenue_fnb": 824.22,
+    "revenue_other": 149.44,
+    "costs_total": 2702.51,
+    "occupancy_pct": 68.6,
+    "adr": 126.15,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-22",
+    "revenue_rooms": 3865.19,
+    "revenue_fnb": 722.78,
+    "revenue_other": 197.67,
+    "costs_total": 2905.96,
+    "occupancy_pct": 74.2,
+    "adr": 124.09,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-23",
+    "revenue_rooms": 3323.16,
+    "revenue_fnb": 712.54,
+    "revenue_other": 158.24,
+    "costs_total": 2639.16,
+    "occupancy_pct": 63.3,
+    "adr": 124.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-24",
+    "revenue_rooms": 2885.68,
+    "revenue_fnb": 549.83,
+    "revenue_other": 93.22,
+    "costs_total": 2215.28,
+    "occupancy_pct": 55.9,
+    "adr": 122.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-25",
+    "revenue_rooms": 2756.0,
+    "revenue_fnb": 555.31,
+    "revenue_other": 155.15,
+    "costs_total": 2062.76,
+    "occupancy_pct": 52.9,
+    "adr": 124.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-26",
+    "revenue_rooms": 2794.34,
+    "revenue_fnb": 607.09,
+    "revenue_other": 152.59,
+    "costs_total": 2177.48,
+    "occupancy_pct": 54.9,
+    "adr": 121.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-27",
+    "revenue_rooms": 2929.1,
+    "revenue_fnb": 570.66,
+    "revenue_other": 129.05,
+    "costs_total": 2199.75,
+    "occupancy_pct": 57.5,
+    "adr": 121.22,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-02-28",
+    "revenue_rooms": 3780.64,
+    "revenue_fnb": 700.39,
+    "revenue_other": 122.24,
+    "costs_total": 2698.3,
+    "occupancy_pct": 70.2,
+    "adr": 128.25,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-01",
+    "revenue_rooms": 4388.4,
+    "revenue_fnb": 950.37,
+    "revenue_other": 166.72,
+    "costs_total": 3421.69,
+    "occupancy_pct": 79.5,
+    "adr": 131.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-02",
+    "revenue_rooms": 3825.82,
+    "revenue_fnb": 862.74,
+    "revenue_other": 130.38,
+    "costs_total": 2884.55,
+    "occupancy_pct": 70.5,
+    "adr": 129.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-03",
+    "revenue_rooms": 3381.38,
+    "revenue_fnb": 735.29,
+    "revenue_other": 130.91,
+    "costs_total": 2583.37,
+    "occupancy_pct": 60.2,
+    "adr": 133.77,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-04",
+    "revenue_rooms": 3429.4,
+    "revenue_fnb": 771.6,
+    "revenue_other": 191.9,
+    "costs_total": 2577.51,
+    "occupancy_pct": 64.4,
+    "adr": 126.78,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-05",
+    "revenue_rooms": 3740.33,
+    "revenue_fnb": 722.92,
+    "revenue_other": 157.9,
+    "costs_total": 2878.25,
+    "occupancy_pct": 66.5,
+    "adr": 133.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-06",
+    "revenue_rooms": 3642.79,
+    "revenue_fnb": 778.44,
+    "revenue_other": 128.1,
+    "costs_total": 2693.73,
+    "occupancy_pct": 65.7,
+    "adr": 131.98,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-07",
+    "revenue_rooms": 4251.36,
+    "revenue_fnb": 876.51,
+    "revenue_other": 227.74,
+    "costs_total": 3292.41,
+    "occupancy_pct": 76.3,
+    "adr": 132.75,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-08",
+    "revenue_rooms": 4562.98,
+    "revenue_fnb": 987.59,
+    "revenue_other": 215.1,
+    "costs_total": 3555.69,
+    "occupancy_pct": 82.3,
+    "adr": 132.04,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-09",
+    "revenue_rooms": 3719.42,
+    "revenue_fnb": 690.43,
+    "revenue_other": 133.34,
+    "costs_total": 2735.15,
+    "occupancy_pct": 68.5,
+    "adr": 129.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-10",
+    "revenue_rooms": 3478.13,
+    "revenue_fnb": 744.95,
+    "revenue_other": 157.09,
+    "costs_total": 2602.16,
+    "occupancy_pct": 65.0,
+    "adr": 127.46,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-11",
+    "revenue_rooms": 3459.92,
+    "revenue_fnb": 762.91,
+    "revenue_other": 153.55,
+    "costs_total": 2548.79,
+    "occupancy_pct": 63.1,
+    "adr": 130.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-12",
+    "revenue_rooms": 3568.27,
+    "revenue_fnb": 791.93,
+    "revenue_other": 186.13,
+    "costs_total": 2698.15,
+    "occupancy_pct": 64.5,
+    "adr": 131.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-13",
+    "revenue_rooms": 3669.68,
+    "revenue_fnb": 698.72,
+    "revenue_other": 161.92,
+    "costs_total": 2704.67,
+    "occupancy_pct": 67.5,
+    "adr": 129.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-14",
+    "revenue_rooms": 4120.85,
+    "revenue_fnb": 921.7,
+    "revenue_other": 226.79,
+    "costs_total": 3209.89,
+    "occupancy_pct": 75.2,
+    "adr": 130.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-15",
+    "revenue_rooms": 4531.61,
+    "revenue_fnb": 1015.59,
+    "revenue_other": 162.41,
+    "costs_total": 3402.86,
+    "occupancy_pct": 84.3,
+    "adr": 128.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-16",
+    "revenue_rooms": 3751.51,
+    "revenue_fnb": 838.49,
+    "revenue_other": 185.29,
+    "costs_total": 2934.92,
+    "occupancy_pct": 70.6,
+    "adr": 126.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-17",
+    "revenue_rooms": 3490.76,
+    "revenue_fnb": 705.27,
+    "revenue_other": 190.01,
+    "costs_total": 2591.25,
+    "occupancy_pct": 62.3,
+    "adr": 133.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-18",
+    "revenue_rooms": 3310.44,
+    "revenue_fnb": 704.95,
+    "revenue_other": 178.96,
+    "costs_total": 2436.88,
+    "occupancy_pct": 61.2,
+    "adr": 128.88,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-19",
+    "revenue_rooms": 3480.75,
+    "revenue_fnb": 668.76,
+    "revenue_other": 197.08,
+    "costs_total": 2549.49,
+    "occupancy_pct": 62.6,
+    "adr": 132.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-20",
+    "revenue_rooms": 3759.87,
+    "revenue_fnb": 736.36,
+    "revenue_other": 193.02,
+    "costs_total": 2823.52,
+    "occupancy_pct": 68.8,
+    "adr": 130.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-21",
+    "revenue_rooms": 4150.49,
+    "revenue_fnb": 749.06,
+    "revenue_other": 245.77,
+    "costs_total": 3028.48,
+    "occupancy_pct": 77.6,
+    "adr": 127.34,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-22",
+    "revenue_rooms": 4582.27,
+    "revenue_fnb": 942.85,
+    "revenue_other": 272.66,
+    "costs_total": 3486.94,
+    "occupancy_pct": 82.4,
+    "adr": 132.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-23",
+    "revenue_rooms": 3925.79,
+    "revenue_fnb": 758.36,
+    "revenue_other": 148.43,
+    "costs_total": 2986.57,
+    "occupancy_pct": 71.7,
+    "adr": 130.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-24",
+    "revenue_rooms": 3509.46,
+    "revenue_fnb": 760.97,
+    "revenue_other": 203.34,
+    "costs_total": 2687.8,
+    "occupancy_pct": 64.1,
+    "adr": 130.35,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-25",
+    "revenue_rooms": 3338.84,
+    "revenue_fnb": 668.33,
+    "revenue_other": 186.28,
+    "costs_total": 2632.51,
+    "occupancy_pct": 60.0,
+    "adr": 132.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-26",
+    "revenue_rooms": 3664.83,
+    "revenue_fnb": 718.48,
+    "revenue_other": 198.4,
+    "costs_total": 2721.38,
+    "occupancy_pct": 67.2,
+    "adr": 129.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-27",
+    "revenue_rooms": 3773.08,
+    "revenue_fnb": 756.7,
+    "revenue_other": 142.9,
+    "costs_total": 2876.79,
+    "occupancy_pct": 70.8,
+    "adr": 126.83,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-28",
+    "revenue_rooms": 4423.14,
+    "revenue_fnb": 942.64,
+    "revenue_other": 257.56,
+    "costs_total": 3473.59,
+    "occupancy_pct": 79.9,
+    "adr": 131.84,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-29",
+    "revenue_rooms": 4629.65,
+    "revenue_fnb": 837.96,
+    "revenue_other": 230.51,
+    "costs_total": 3341.24,
+    "occupancy_pct": 84.1,
+    "adr": 131.13,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-30",
+    "revenue_rooms": 3702.08,
+    "revenue_fnb": 836.07,
+    "revenue_other": 204.75,
+    "costs_total": 2846.05,
+    "occupancy_pct": 69.6,
+    "adr": 126.7,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-03-31",
+    "revenue_rooms": 3265.53,
+    "revenue_fnb": 730.04,
+    "revenue_other": 130.31,
+    "costs_total": 2501.93,
+    "occupancy_pct": 59.9,
+    "adr": 129.8,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-01",
+    "revenue_rooms": 3914.06,
+    "revenue_fnb": 856.71,
+    "revenue_other": 156.77,
+    "costs_total": 2868.45,
+    "occupancy_pct": 68.6,
+    "adr": 135.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-02",
+    "revenue_rooms": 4024.31,
+    "revenue_fnb": 784.11,
+    "revenue_other": 222.94,
+    "costs_total": 3077.07,
+    "occupancy_pct": 72.6,
+    "adr": 131.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-03",
+    "revenue_rooms": 4085.87,
+    "revenue_fnb": 808.53,
+    "revenue_other": 229.45,
+    "costs_total": 3188.62,
+    "occupancy_pct": 72.6,
+    "adr": 134.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-04",
+    "revenue_rooms": 4746.34,
+    "revenue_fnb": 1087.36,
+    "revenue_other": 144.13,
+    "costs_total": 3683.92,
+    "occupancy_pct": 82.2,
+    "adr": 137.46,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-05",
+    "revenue_rooms": 4822.44,
+    "revenue_fnb": 873.21,
+    "revenue_other": 162.38,
+    "costs_total": 3543.14,
+    "occupancy_pct": 87.1,
+    "adr": 131.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-06",
+    "revenue_rooms": 4401.76,
+    "revenue_fnb": 793.51,
+    "revenue_other": 159.88,
+    "costs_total": 3314.25,
+    "occupancy_pct": 78.4,
+    "adr": 133.65,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-07",
+    "revenue_rooms": 3783.01,
+    "revenue_fnb": 681.9,
+    "revenue_other": 190.91,
+    "costs_total": 2908.78,
+    "occupancy_pct": 68.2,
+    "adr": 132.05,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-08",
+    "revenue_rooms": 3726.52,
+    "revenue_fnb": 781.5,
+    "revenue_other": 161.21,
+    "costs_total": 2824.35,
+    "occupancy_pct": 67.6,
+    "adr": 131.2,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-09",
+    "revenue_rooms": 4073.37,
+    "revenue_fnb": 828.29,
+    "revenue_other": 190.62,
+    "costs_total": 2970.9,
+    "occupancy_pct": 71.8,
+    "adr": 135.15,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-10",
+    "revenue_rooms": 4291.35,
+    "revenue_fnb": 780.51,
+    "revenue_other": 189.86,
+    "costs_total": 3224.29,
+    "occupancy_pct": 74.4,
+    "adr": 137.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-11",
+    "revenue_rooms": 4569.51,
+    "revenue_fnb": 975.33,
+    "revenue_other": 211.32,
+    "costs_total": 3354.96,
+    "occupancy_pct": 81.9,
+    "adr": 132.9,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-12",
+    "revenue_rooms": 4889.29,
+    "revenue_fnb": 974.32,
+    "revenue_other": 254.02,
+    "costs_total": 3789.71,
+    "occupancy_pct": 87.5,
+    "adr": 132.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-13",
+    "revenue_rooms": 4449.19,
+    "revenue_fnb": 851.57,
+    "revenue_other": 201.77,
+    "costs_total": 3450.7,
+    "occupancy_pct": 77.9,
+    "adr": 136.03,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-14",
+    "revenue_rooms": 4050.73,
+    "revenue_fnb": 843.02,
+    "revenue_other": 171.95,
+    "costs_total": 3027.81,
+    "occupancy_pct": 70.0,
+    "adr": 137.82,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-15",
+    "revenue_rooms": 3805.51,
+    "revenue_fnb": 857.3,
+    "revenue_other": 188.0,
+    "costs_total": 3018.74,
+    "occupancy_pct": 67.1,
+    "adr": 135.08,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-16",
+    "revenue_rooms": 4031.74,
+    "revenue_fnb": 852.7,
+    "revenue_other": 156.32,
+    "costs_total": 2970.52,
+    "occupancy_pct": 72.9,
+    "adr": 131.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-17",
+    "revenue_rooms": 4054.06,
+    "revenue_fnb": 857.33,
+    "revenue_other": 203.27,
+    "costs_total": 3042.07,
+    "occupancy_pct": 70.8,
+    "adr": 136.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-18",
+    "revenue_rooms": 4631.44,
+    "revenue_fnb": 835.98,
+    "revenue_other": 160.62,
+    "costs_total": 3471.86,
+    "occupancy_pct": 81.6,
+    "adr": 135.08,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-19",
+    "revenue_rooms": 4857.91,
+    "revenue_fnb": 964.88,
+    "revenue_other": 251.02,
+    "costs_total": 3772.12,
+    "occupancy_pct": 88.0,
+    "adr": 131.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-20",
+    "revenue_rooms": 4383.6,
+    "revenue_fnb": 793.68,
+    "revenue_other": 208.55,
+    "costs_total": 3360.55,
+    "occupancy_pct": 76.8,
+    "adr": 135.9,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-21",
+    "revenue_rooms": 3864.82,
+    "revenue_fnb": 794.69,
+    "revenue_other": 210.12,
+    "costs_total": 2912.87,
+    "occupancy_pct": 70.6,
+    "adr": 130.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-22",
+    "revenue_rooms": 4054.65,
+    "revenue_fnb": 841.54,
+    "revenue_other": 149.2,
+    "costs_total": 2952.39,
+    "occupancy_pct": 70.4,
+    "adr": 137.08,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-23",
+    "revenue_rooms": 4034.73,
+    "revenue_fnb": 781.42,
+    "revenue_other": 149.78,
+    "costs_total": 2885.05,
+    "occupancy_pct": 72.7,
+    "adr": 132.06,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-24",
+    "revenue_rooms": 4060.16,
+    "revenue_fnb": 906.27,
+    "revenue_other": 163.0,
+    "costs_total": 3182.28,
+    "occupancy_pct": 74.1,
+    "adr": 130.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-25",
+    "revenue_rooms": 4878.56,
+    "revenue_fnb": 1102.74,
+    "revenue_other": 203.51,
+    "costs_total": 3746.29,
+    "occupancy_pct": 84.0,
+    "adr": 138.2,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-26",
+    "revenue_rooms": 5171.37,
+    "revenue_fnb": 985.13,
+    "revenue_other": 296.56,
+    "costs_total": 3835.82,
+    "occupancy_pct": 90.3,
+    "adr": 136.29,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-27",
+    "revenue_rooms": 4179.64,
+    "revenue_fnb": 912.43,
+    "revenue_other": 190.5,
+    "costs_total": 3118.78,
+    "occupancy_pct": 73.7,
+    "adr": 135.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-28",
+    "revenue_rooms": 3725.83,
+    "revenue_fnb": 681.15,
+    "revenue_other": 196.02,
+    "costs_total": 2752.45,
+    "occupancy_pct": 65.7,
+    "adr": 134.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-29",
+    "revenue_rooms": 3752.23,
+    "revenue_fnb": 832.76,
+    "revenue_other": 223.62,
+    "costs_total": 2815.94,
+    "occupancy_pct": 67.5,
+    "adr": 132.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-04-30",
+    "revenue_rooms": 4028.29,
+    "revenue_fnb": 751.1,
+    "revenue_other": 192.09,
+    "costs_total": 3049.37,
+    "occupancy_pct": 71.6,
+    "adr": 133.96,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-01",
+    "revenue_rooms": 4410.3,
+    "revenue_fnb": 849.52,
+    "revenue_other": 187.15,
+    "costs_total": 3237.04,
+    "occupancy_pct": 76.3,
+    "adr": 137.65,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-02",
+    "revenue_rooms": 4899.32,
+    "revenue_fnb": 1106.84,
+    "revenue_other": 171.61,
+    "costs_total": 3699.92,
+    "occupancy_pct": 86.1,
+    "adr": 135.54,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-03",
+    "revenue_rooms": 5369.23,
+    "revenue_fnb": 1032.7,
+    "revenue_other": 204.62,
+    "costs_total": 4052.17,
+    "occupancy_pct": 94.1,
+    "adr": 135.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-04",
+    "revenue_rooms": 4700.43,
+    "revenue_fnb": 966.35,
+    "revenue_other": 206.88,
+    "costs_total": 3495.31,
+    "occupancy_pct": 80.1,
+    "adr": 139.68,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-05",
+    "revenue_rooms": 4113.18,
+    "revenue_fnb": 834.67,
+    "revenue_other": 134.95,
+    "costs_total": 3017.21,
+    "occupancy_pct": 73.8,
+    "adr": 132.75,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-06",
+    "revenue_rooms": 4393.52,
+    "revenue_fnb": 839.29,
+    "revenue_other": 241.79,
+    "costs_total": 3326.57,
+    "occupancy_pct": 74.4,
+    "adr": 140.58,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-07",
+    "revenue_rooms": 4223.05,
+    "revenue_fnb": 956.58,
+    "revenue_other": 208.14,
+    "costs_total": 3342.95,
+    "occupancy_pct": 71.5,
+    "adr": 140.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-08",
+    "revenue_rooms": 4466.87,
+    "revenue_fnb": 926.7,
+    "revenue_other": 218.25,
+    "costs_total": 3269.47,
+    "occupancy_pct": 78.6,
+    "adr": 135.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-09",
+    "revenue_rooms": 5008.46,
+    "revenue_fnb": 1094.13,
+    "revenue_other": 237.11,
+    "costs_total": 3731.23,
+    "occupancy_pct": 85.9,
+    "adr": 138.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-10",
+    "revenue_rooms": 4947.39,
+    "revenue_fnb": 1007.92,
+    "revenue_other": 293.59,
+    "costs_total": 3678.73,
+    "occupancy_pct": 88.4,
+    "adr": 133.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-11",
+    "revenue_rooms": 4525.12,
+    "revenue_fnb": 879.92,
+    "revenue_other": 233.36,
+    "costs_total": 3426.69,
+    "occupancy_pct": 79.3,
+    "adr": 135.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-12",
+    "revenue_rooms": 3999.86,
+    "revenue_fnb": 911.26,
+    "revenue_other": 166.9,
+    "costs_total": 2979.42,
+    "occupancy_pct": 71.3,
+    "adr": 133.6,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-13",
+    "revenue_rooms": 4204.58,
+    "revenue_fnb": 853.45,
+    "revenue_other": 240.57,
+    "costs_total": 3167.75,
+    "occupancy_pct": 72.2,
+    "adr": 138.6,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-14",
+    "revenue_rooms": 4113.62,
+    "revenue_fnb": 799.63,
+    "revenue_other": 233.6,
+    "costs_total": 3152.7,
+    "occupancy_pct": 71.0,
+    "adr": 137.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-15",
+    "revenue_rooms": 4273.9,
+    "revenue_fnb": 815.31,
+    "revenue_other": 217.19,
+    "costs_total": 3272.11,
+    "occupancy_pct": 76.0,
+    "adr": 133.91,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-16",
+    "revenue_rooms": 4937.8,
+    "revenue_fnb": 1029.62,
+    "revenue_other": 267.17,
+    "costs_total": 3669.7,
+    "occupancy_pct": 85.3,
+    "adr": 137.82,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-17",
+    "revenue_rooms": 5295.39,
+    "revenue_fnb": 984.52,
+    "revenue_other": 184.25,
+    "costs_total": 3841.16,
+    "occupancy_pct": 91.9,
+    "adr": 137.13,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-18",
+    "revenue_rooms": 4664.62,
+    "revenue_fnb": 1032.73,
+    "revenue_other": 174.5,
+    "costs_total": 3594.52,
+    "occupancy_pct": 81.1,
+    "adr": 137.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-19",
+    "revenue_rooms": 3887.7,
+    "revenue_fnb": 771.71,
+    "revenue_other": 154.34,
+    "costs_total": 2921.81,
+    "occupancy_pct": 69.7,
+    "adr": 132.82,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-20",
+    "revenue_rooms": 4181.12,
+    "revenue_fnb": 906.14,
+    "revenue_other": 191.49,
+    "costs_total": 3185.96,
+    "occupancy_pct": 73.5,
+    "adr": 135.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-21",
+    "revenue_rooms": 4255.46,
+    "revenue_fnb": 881.22,
+    "revenue_other": 202.08,
+    "costs_total": 3357.46,
+    "occupancy_pct": 74.7,
+    "adr": 135.7,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-22",
+    "revenue_rooms": 4313.48,
+    "revenue_fnb": 946.71,
+    "revenue_other": 193.82,
+    "costs_total": 3249.9,
+    "occupancy_pct": 76.1,
+    "adr": 134.9,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-23",
+    "revenue_rooms": 5026.94,
+    "revenue_fnb": 1109.49,
+    "revenue_other": 237.91,
+    "costs_total": 3799.97,
+    "occupancy_pct": 85.7,
+    "adr": 139.69,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-24",
+    "revenue_rooms": 5377.71,
+    "revenue_fnb": 1164.64,
+    "revenue_other": 319.2,
+    "costs_total": 3996.01,
+    "occupancy_pct": 93.9,
+    "adr": 136.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-25",
+    "revenue_rooms": 4408.39,
+    "revenue_fnb": 883.77,
+    "revenue_other": 168.87,
+    "costs_total": 3284.83,
+    "occupancy_pct": 78.9,
+    "adr": 133.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-26",
+    "revenue_rooms": 3985.63,
+    "revenue_fnb": 900.45,
+    "revenue_other": 179.23,
+    "costs_total": 3133.01,
+    "occupancy_pct": 71.4,
+    "adr": 132.88,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-27",
+    "revenue_rooms": 4370.16,
+    "revenue_fnb": 797.17,
+    "revenue_other": 180.57,
+    "costs_total": 3352.39,
+    "occupancy_pct": 73.7,
+    "adr": 141.1,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-28",
+    "revenue_rooms": 4140.88,
+    "revenue_fnb": 752.21,
+    "revenue_other": 217.49,
+    "costs_total": 3184.59,
+    "occupancy_pct": 71.3,
+    "adr": 138.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-29",
+    "revenue_rooms": 4383.19,
+    "revenue_fnb": 810.73,
+    "revenue_other": 180.04,
+    "costs_total": 3265.86,
+    "occupancy_pct": 76.9,
+    "adr": 135.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-30",
+    "revenue_rooms": 4972.81,
+    "revenue_fnb": 1087.73,
+    "revenue_other": 253.86,
+    "costs_total": 3751.09,
+    "occupancy_pct": 85.5,
+    "adr": 138.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-05-31",
+    "revenue_rooms": 5256.54,
+    "revenue_fnb": 1123.18,
+    "revenue_other": 305.68,
+    "costs_total": 4194.33,
+    "occupancy_pct": 90.7,
+    "adr": 138.05,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-01",
+    "revenue_rooms": 4914.05,
+    "revenue_fnb": 1010.21,
+    "revenue_other": 171.52,
+    "costs_total": 3805.2,
+    "occupancy_pct": 82.4,
+    "adr": 142.04,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-02",
+    "revenue_rooms": 4590.43,
+    "revenue_fnb": 853.39,
+    "revenue_other": 169.91,
+    "costs_total": 3283.66,
+    "occupancy_pct": 76.1,
+    "adr": 143.6,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-03",
+    "revenue_rooms": 4612.02,
+    "revenue_fnb": 984.07,
+    "revenue_other": 228.59,
+    "costs_total": 3487.64,
+    "occupancy_pct": 76.9,
+    "adr": 142.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-04",
+    "revenue_rooms": 4614.69,
+    "revenue_fnb": 926.33,
+    "revenue_other": 197.85,
+    "costs_total": 3597.05,
+    "occupancy_pct": 79.2,
+    "adr": 138.73,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-05",
+    "revenue_rooms": 4756.12,
+    "revenue_fnb": 1033.34,
+    "revenue_other": 272.25,
+    "costs_total": 3734.62,
+    "occupancy_pct": 79.1,
+    "adr": 143.2,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-06",
+    "revenue_rooms": 5109.72,
+    "revenue_fnb": 1132.5,
+    "revenue_other": 292.34,
+    "costs_total": 3910.45,
+    "occupancy_pct": 88.6,
+    "adr": 137.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-07",
+    "revenue_rooms": 5497.16,
+    "revenue_fnb": 1157.17,
+    "revenue_other": 304.89,
+    "costs_total": 4172.99,
+    "occupancy_pct": 93.7,
+    "adr": 139.75,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-08",
+    "revenue_rooms": 4910.77,
+    "revenue_fnb": 936.52,
+    "revenue_other": 252.56,
+    "costs_total": 3704.0,
+    "occupancy_pct": 82.1,
+    "adr": 142.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-09",
+    "revenue_rooms": 4504.17,
+    "revenue_fnb": 860.21,
+    "revenue_other": 229.01,
+    "costs_total": 3302.81,
+    "occupancy_pct": 77.7,
+    "adr": 138.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-10",
+    "revenue_rooms": 4371.23,
+    "revenue_fnb": 821.56,
+    "revenue_other": 216.71,
+    "costs_total": 3336.74,
+    "occupancy_pct": 74.2,
+    "adr": 140.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-11",
+    "revenue_rooms": 4586.61,
+    "revenue_fnb": 921.03,
+    "revenue_other": 145.99,
+    "costs_total": 3538.74,
+    "occupancy_pct": 77.7,
+    "adr": 140.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-12",
+    "revenue_rooms": 4857.36,
+    "revenue_fnb": 1085.44,
+    "revenue_other": 227.15,
+    "costs_total": 3751.01,
+    "occupancy_pct": 81.8,
+    "adr": 141.41,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-13",
+    "revenue_rooms": 5126.48,
+    "revenue_fnb": 987.85,
+    "revenue_other": 246.33,
+    "costs_total": 3963.93,
+    "occupancy_pct": 89.5,
+    "adr": 136.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-14",
+    "revenue_rooms": 5808.12,
+    "revenue_fnb": 1102.78,
+    "revenue_other": 288.28,
+    "costs_total": 4441.32,
+    "occupancy_pct": 97.4,
+    "adr": 141.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-15",
+    "revenue_rooms": 5033.06,
+    "revenue_fnb": 1101.34,
+    "revenue_other": 197.3,
+    "costs_total": 3854.57,
+    "occupancy_pct": 83.4,
+    "adr": 143.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-16",
+    "revenue_rooms": 4474.63,
+    "revenue_fnb": 991.39,
+    "revenue_other": 243.6,
+    "costs_total": 3396.54,
+    "occupancy_pct": 75.3,
+    "adr": 141.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-17",
+    "revenue_rooms": 4440.23,
+    "revenue_fnb": 953.44,
+    "revenue_other": 221.24,
+    "costs_total": 3390.49,
+    "occupancy_pct": 75.1,
+    "adr": 140.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-18",
+    "revenue_rooms": 4744.02,
+    "revenue_fnb": 883.4,
+    "revenue_other": 208.68,
+    "costs_total": 3559.4,
+    "occupancy_pct": 79.6,
+    "adr": 141.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-19",
+    "revenue_rooms": 4809.31,
+    "revenue_fnb": 994.52,
+    "revenue_other": 257.5,
+    "costs_total": 3577.32,
+    "occupancy_pct": 80.5,
+    "adr": 142.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-20",
+    "revenue_rooms": 5620.44,
+    "revenue_fnb": 1188.7,
+    "revenue_other": 294.62,
+    "costs_total": 4123.12,
+    "occupancy_pct": 94.3,
+    "adr": 141.96,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-21",
+    "revenue_rooms": 5407.54,
+    "revenue_fnb": 1118.83,
+    "revenue_other": 201.36,
+    "costs_total": 4195.05,
+    "occupancy_pct": 93.4,
+    "adr": 137.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-22",
+    "revenue_rooms": 4735.6,
+    "revenue_fnb": 1053.39,
+    "revenue_other": 238.01,
+    "costs_total": 3795.03,
+    "occupancy_pct": 81.2,
+    "adr": 138.78,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-23",
+    "revenue_rooms": 4668.71,
+    "revenue_fnb": 891.42,
+    "revenue_other": 235.26,
+    "costs_total": 3450.78,
+    "occupancy_pct": 78.4,
+    "adr": 141.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-24",
+    "revenue_rooms": 4314.29,
+    "revenue_fnb": 889.13,
+    "revenue_other": 173.65,
+    "costs_total": 3346.78,
+    "occupancy_pct": 74.2,
+    "adr": 138.44,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-25",
+    "revenue_rooms": 4493.57,
+    "revenue_fnb": 917.22,
+    "revenue_other": 164.4,
+    "costs_total": 3501.86,
+    "occupancy_pct": 76.8,
+    "adr": 139.34,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-26",
+    "revenue_rooms": 4660.56,
+    "revenue_fnb": 864.89,
+    "revenue_other": 207.38,
+    "costs_total": 3458.21,
+    "occupancy_pct": 79.0,
+    "adr": 140.43,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-27",
+    "revenue_rooms": 5351.38,
+    "revenue_fnb": 1028.15,
+    "revenue_other": 224.69,
+    "costs_total": 3834.05,
+    "occupancy_pct": 91.2,
+    "adr": 139.75,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-28",
+    "revenue_rooms": 5687.9,
+    "revenue_fnb": 1060.87,
+    "revenue_other": 313.34,
+    "costs_total": 4157.79,
+    "occupancy_pct": 97.6,
+    "adr": 138.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-29",
+    "revenue_rooms": 4996.62,
+    "revenue_fnb": 1100.62,
+    "revenue_other": 186.48,
+    "costs_total": 3648.56,
+    "occupancy_pct": 82.8,
+    "adr": 143.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-06-30",
+    "revenue_rooms": 4526.34,
+    "revenue_fnb": 982.6,
+    "revenue_other": 199.19,
+    "costs_total": 3583.77,
+    "occupancy_pct": 74.7,
+    "adr": 144.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-01",
+    "revenue_rooms": 4869.77,
+    "revenue_fnb": 914.62,
+    "revenue_other": 240.5,
+    "costs_total": 3623.38,
+    "occupancy_pct": 82.5,
+    "adr": 140.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-02",
+    "revenue_rooms": 5224.86,
+    "revenue_fnb": 965.35,
+    "revenue_other": 161.1,
+    "costs_total": 4000.64,
+    "occupancy_pct": 85.0,
+    "adr": 146.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-03",
+    "revenue_rooms": 5403.27,
+    "revenue_fnb": 1171.45,
+    "revenue_other": 192.67,
+    "costs_total": 4081.0,
+    "occupancy_pct": 90.5,
+    "adr": 142.13,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-04",
+    "revenue_rooms": 5859.54,
+    "revenue_fnb": 1141.04,
+    "revenue_other": 306.69,
+    "costs_total": 4527.95,
+    "occupancy_pct": 98.0,
+    "adr": 142.36,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-05",
+    "revenue_rooms": 5870.24,
+    "revenue_fnb": 1289.33,
+    "revenue_other": 268.83,
+    "costs_total": 4440.48,
+    "occupancy_pct": 98.0,
+    "adr": 142.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-06",
+    "revenue_rooms": 5270.72,
+    "revenue_fnb": 1018.08,
+    "revenue_other": 256.73,
+    "costs_total": 3935.57,
+    "occupancy_pct": 87.5,
+    "adr": 143.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-07",
+    "revenue_rooms": 5000.33,
+    "revenue_fnb": 1120.55,
+    "revenue_other": 243.74,
+    "costs_total": 3884.07,
+    "occupancy_pct": 84.7,
+    "adr": 140.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-08",
+    "revenue_rooms": 4918.56,
+    "revenue_fnb": 1000.15,
+    "revenue_other": 148.56,
+    "costs_total": 3558.81,
+    "occupancy_pct": 79.6,
+    "adr": 147.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-09",
+    "revenue_rooms": 4997.63,
+    "revenue_fnb": 1007.32,
+    "revenue_other": 294.68,
+    "costs_total": 3761.64,
+    "occupancy_pct": 84.2,
+    "adr": 141.26,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-10",
+    "revenue_rooms": 5549.62,
+    "revenue_fnb": 1241.3,
+    "revenue_other": 329.46,
+    "costs_total": 4303.43,
+    "occupancy_pct": 89.5,
+    "adr": 147.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-11",
+    "revenue_rooms": 5692.03,
+    "revenue_fnb": 1049.91,
+    "revenue_other": 255.78,
+    "costs_total": 4322.35,
+    "occupancy_pct": 96.1,
+    "adr": 141.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-12",
+    "revenue_rooms": 6017.18,
+    "revenue_fnb": 1084.7,
+    "revenue_other": 330.84,
+    "costs_total": 4594.02,
+    "occupancy_pct": 98.0,
+    "adr": 146.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-13",
+    "revenue_rooms": 5363.24,
+    "revenue_fnb": 1071.72,
+    "revenue_other": 238.26,
+    "costs_total": 4200.83,
+    "occupancy_pct": 89.9,
+    "adr": 142.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-14",
+    "revenue_rooms": 5117.37,
+    "revenue_fnb": 951.92,
+    "revenue_other": 158.37,
+    "costs_total": 3684.25,
+    "occupancy_pct": 82.9,
+    "adr": 147.05,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-15",
+    "revenue_rooms": 5054.36,
+    "revenue_fnb": 975.02,
+    "revenue_other": 195.82,
+    "costs_total": 3622.65,
+    "occupancy_pct": 85.1,
+    "adr": 141.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-16",
+    "revenue_rooms": 4886.18,
+    "revenue_fnb": 1077.22,
+    "revenue_other": 212.58,
+    "costs_total": 3863.2,
+    "occupancy_pct": 82.7,
+    "adr": 140.65,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-17",
+    "revenue_rooms": 5396.35,
+    "revenue_fnb": 1193.99,
+    "revenue_other": 254.91,
+    "costs_total": 4267.9,
+    "occupancy_pct": 86.7,
+    "adr": 148.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-18",
+    "revenue_rooms": 5807.04,
+    "revenue_fnb": 1165.65,
+    "revenue_other": 301.12,
+    "costs_total": 4238.62,
+    "occupancy_pct": 96.7,
+    "adr": 142.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-19",
+    "revenue_rooms": 5875.18,
+    "revenue_fnb": 1277.5,
+    "revenue_other": 274.34,
+    "costs_total": 4563.99,
+    "occupancy_pct": 98.0,
+    "adr": 142.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-20",
+    "revenue_rooms": 5546.75,
+    "revenue_fnb": 1254.44,
+    "revenue_other": 237.33,
+    "costs_total": 4369.94,
+    "occupancy_pct": 90.3,
+    "adr": 146.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-21",
+    "revenue_rooms": 5078.61,
+    "revenue_fnb": 1144.9,
+    "revenue_other": 251.87,
+    "costs_total": 4034.51,
+    "occupancy_pct": 81.7,
+    "adr": 148.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-22",
+    "revenue_rooms": 5107.72,
+    "revenue_fnb": 1124.8,
+    "revenue_other": 182.89,
+    "costs_total": 3846.1,
+    "occupancy_pct": 85.6,
+    "adr": 142.06,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-23",
+    "revenue_rooms": 5451.29,
+    "revenue_fnb": 1040.6,
+    "revenue_other": 307.36,
+    "costs_total": 4114.21,
+    "occupancy_pct": 87.6,
+    "adr": 148.12,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-24",
+    "revenue_rooms": 5274.23,
+    "revenue_fnb": 1091.24,
+    "revenue_other": 171.85,
+    "costs_total": 4063.27,
+    "occupancy_pct": 86.9,
+    "adr": 144.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-25",
+    "revenue_rooms": 5970.26,
+    "revenue_fnb": 1169.84,
+    "revenue_other": 333.4,
+    "costs_total": 4703.19,
+    "occupancy_pct": 98.0,
+    "adr": 145.05,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-26",
+    "revenue_rooms": 5992.48,
+    "revenue_fnb": 1363.21,
+    "revenue_other": 213.21,
+    "costs_total": 4667.98,
+    "occupancy_pct": 98.0,
+    "adr": 145.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-27",
+    "revenue_rooms": 5411.7,
+    "revenue_fnb": 1048.65,
+    "revenue_other": 267.18,
+    "costs_total": 4116.16,
+    "occupancy_pct": 90.9,
+    "adr": 141.78,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-28",
+    "revenue_rooms": 5061.8,
+    "revenue_fnb": 1043.33,
+    "revenue_other": 167.63,
+    "costs_total": 3761.88,
+    "occupancy_pct": 82.6,
+    "adr": 145.96,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-29",
+    "revenue_rooms": 5043.55,
+    "revenue_fnb": 1090.33,
+    "revenue_other": 293.32,
+    "costs_total": 4016.73,
+    "occupancy_pct": 82.1,
+    "adr": 146.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-30",
+    "revenue_rooms": 5064.47,
+    "revenue_fnb": 1116.06,
+    "revenue_other": 233.49,
+    "costs_total": 4034.76,
+    "occupancy_pct": 84.6,
+    "adr": 142.51,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-07-31",
+    "revenue_rooms": 5389.96,
+    "revenue_fnb": 1088.0,
+    "revenue_other": 239.74,
+    "costs_total": 4176.78,
+    "occupancy_pct": 86.9,
+    "adr": 147.68,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-01",
+    "revenue_rooms": 5784.57,
+    "revenue_fnb": 1095.65,
+    "revenue_other": 325.68,
+    "costs_total": 4374.26,
+    "occupancy_pct": 95.2,
+    "adr": 144.61,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-02",
+    "revenue_rooms": 5904.4,
+    "revenue_fnb": 1247.23,
+    "revenue_other": 272.35,
+    "costs_total": 4432.68,
+    "occupancy_pct": 98.0,
+    "adr": 143.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-03",
+    "revenue_rooms": 5550.44,
+    "revenue_fnb": 999.52,
+    "revenue_other": 166.73,
+    "costs_total": 4138.2,
+    "occupancy_pct": 90.0,
+    "adr": 146.91,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-04",
+    "revenue_rooms": 4849.3,
+    "revenue_fnb": 1033.0,
+    "revenue_other": 245.02,
+    "costs_total": 3809.3,
+    "occupancy_pct": 79.5,
+    "adr": 145.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-05",
+    "revenue_rooms": 5078.39,
+    "revenue_fnb": 1014.11,
+    "revenue_other": 251.57,
+    "costs_total": 3877.73,
+    "occupancy_pct": 82.2,
+    "adr": 147.03,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-06",
+    "revenue_rooms": 5313.67,
+    "revenue_fnb": 1148.23,
+    "revenue_other": 239.79,
+    "costs_total": 3947.83,
+    "occupancy_pct": 85.9,
+    "adr": 147.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-07",
+    "revenue_rooms": 5122.08,
+    "revenue_fnb": 1105.09,
+    "revenue_other": 222.29,
+    "costs_total": 3812.0,
+    "occupancy_pct": 86.4,
+    "adr": 141.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-08",
+    "revenue_rooms": 5991.66,
+    "revenue_fnb": 1180.09,
+    "revenue_other": 277.44,
+    "costs_total": 4364.67,
+    "occupancy_pct": 98.0,
+    "adr": 145.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-09",
+    "revenue_rooms": 6076.04,
+    "revenue_fnb": 1165.57,
+    "revenue_other": 317.38,
+    "costs_total": 4666.63,
+    "occupancy_pct": 98.0,
+    "adr": 147.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-10",
+    "revenue_rooms": 5385.34,
+    "revenue_fnb": 995.35,
+    "revenue_other": 274.39,
+    "costs_total": 3917.45,
+    "occupancy_pct": 87.0,
+    "adr": 147.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-11",
+    "revenue_rooms": 4814.56,
+    "revenue_fnb": 891.33,
+    "revenue_other": 205.68,
+    "costs_total": 3631.48,
+    "occupancy_pct": 79.8,
+    "adr": 143.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-12",
+    "revenue_rooms": 5125.53,
+    "revenue_fnb": 1161.23,
+    "revenue_other": 284.44,
+    "costs_total": 4036.08,
+    "occupancy_pct": 82.8,
+    "adr": 147.46,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-13",
+    "revenue_rooms": 5226.55,
+    "revenue_fnb": 1051.7,
+    "revenue_other": 264.72,
+    "costs_total": 4060.22,
+    "occupancy_pct": 85.9,
+    "adr": 144.91,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-14",
+    "revenue_rooms": 5331.23,
+    "revenue_fnb": 1041.93,
+    "revenue_other": 176.07,
+    "costs_total": 3992.88,
+    "occupancy_pct": 88.7,
+    "adr": 143.03,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-15",
+    "revenue_rooms": 5733.6,
+    "revenue_fnb": 1065.68,
+    "revenue_other": 224.65,
+    "costs_total": 4241.39,
+    "occupancy_pct": 96.4,
+    "adr": 141.61,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-16",
+    "revenue_rooms": 5929.92,
+    "revenue_fnb": 1068.7,
+    "revenue_other": 321.34,
+    "costs_total": 4382.36,
+    "occupancy_pct": 98.0,
+    "adr": 144.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-17",
+    "revenue_rooms": 5418.73,
+    "revenue_fnb": 1168.65,
+    "revenue_other": 285.28,
+    "costs_total": 4315.32,
+    "occupancy_pct": 88.0,
+    "adr": 146.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-18",
+    "revenue_rooms": 5339.07,
+    "revenue_fnb": 1085.46,
+    "revenue_other": 187.33,
+    "costs_total": 3869.83,
+    "occupancy_pct": 85.8,
+    "adr": 148.09,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-19",
+    "revenue_rooms": 5058.43,
+    "revenue_fnb": 1052.96,
+    "revenue_other": 197.46,
+    "costs_total": 3707.6,
+    "occupancy_pct": 84.6,
+    "adr": 142.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-20",
+    "revenue_rooms": 4915.92,
+    "revenue_fnb": 1066.32,
+    "revenue_other": 200.89,
+    "costs_total": 3620.19,
+    "occupancy_pct": 82.1,
+    "adr": 142.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-21",
+    "revenue_rooms": 5503.9,
+    "revenue_fnb": 1252.23,
+    "revenue_other": 213.0,
+    "costs_total": 4198.21,
+    "occupancy_pct": 89.1,
+    "adr": 147.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-22",
+    "revenue_rooms": 5884.23,
+    "revenue_fnb": 1180.76,
+    "revenue_other": 240.16,
+    "costs_total": 4431.59,
+    "occupancy_pct": 98.0,
+    "adr": 142.96,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-23",
+    "revenue_rooms": 6114.73,
+    "revenue_fnb": 1352.43,
+    "revenue_other": 285.46,
+    "costs_total": 4581.96,
+    "occupancy_pct": 98.0,
+    "adr": 148.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-24",
+    "revenue_rooms": 5395.27,
+    "revenue_fnb": 1096.5,
+    "revenue_other": 305.4,
+    "costs_total": 4217.66,
+    "occupancy_pct": 91.0,
+    "adr": 141.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-25",
+    "revenue_rooms": 4967.83,
+    "revenue_fnb": 913.32,
+    "revenue_other": 242.91,
+    "costs_total": 3633.38,
+    "occupancy_pct": 82.9,
+    "adr": 142.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-26",
+    "revenue_rooms": 4992.4,
+    "revenue_fnb": 1051.74,
+    "revenue_other": 274.77,
+    "costs_total": 3921.93,
+    "occupancy_pct": 84.0,
+    "adr": 141.51,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-27",
+    "revenue_rooms": 5196.83,
+    "revenue_fnb": 997.97,
+    "revenue_other": 157.2,
+    "costs_total": 3876.15,
+    "occupancy_pct": 83.7,
+    "adr": 147.9,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-28",
+    "revenue_rooms": 5665.62,
+    "revenue_fnb": 1280.34,
+    "revenue_other": 241.77,
+    "costs_total": 4318.17,
+    "occupancy_pct": 90.5,
+    "adr": 148.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-29",
+    "revenue_rooms": 5970.67,
+    "revenue_fnb": 1098.97,
+    "revenue_other": 200.21,
+    "costs_total": 4336.42,
+    "occupancy_pct": 98.0,
+    "adr": 145.06,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-30",
+    "revenue_rooms": 5947.21,
+    "revenue_fnb": 1184.88,
+    "revenue_other": 353.41,
+    "costs_total": 4618.11,
+    "occupancy_pct": 98.0,
+    "adr": 144.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-08-31",
+    "revenue_rooms": 5426.99,
+    "revenue_fnb": 1118.51,
+    "revenue_other": 306.5,
+    "costs_total": 4125.43,
+    "occupancy_pct": 89.7,
+    "adr": 144.09,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-01",
+    "revenue_rooms": 4421.56,
+    "revenue_fnb": 879.6,
+    "revenue_other": 223.55,
+    "costs_total": 3391.92,
+    "occupancy_pct": 73.9,
+    "adr": 142.54,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-02",
+    "revenue_rooms": 4523.27,
+    "revenue_fnb": 941.76,
+    "revenue_other": 205.6,
+    "costs_total": 3403.22,
+    "occupancy_pct": 76.0,
+    "adr": 141.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-03",
+    "revenue_rooms": 4621.76,
+    "revenue_fnb": 916.14,
+    "revenue_other": 266.17,
+    "costs_total": 3457.53,
+    "occupancy_pct": 77.3,
+    "adr": 142.34,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-04",
+    "revenue_rooms": 4681.42,
+    "revenue_fnb": 933.33,
+    "revenue_other": 181.52,
+    "costs_total": 3461.24,
+    "occupancy_pct": 78.9,
+    "adr": 141.35,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-05",
+    "revenue_rooms": 5279.48,
+    "revenue_fnb": 952.04,
+    "revenue_other": 270.32,
+    "costs_total": 3941.82,
+    "occupancy_pct": 91.8,
+    "adr": 136.88,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-06",
+    "revenue_rooms": 5624.23,
+    "revenue_fnb": 1197.5,
+    "revenue_other": 170.68,
+    "costs_total": 4318.23,
+    "occupancy_pct": 93.4,
+    "adr": 143.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-07",
+    "revenue_rooms": 4945.31,
+    "revenue_fnb": 1018.25,
+    "revenue_other": 220.91,
+    "costs_total": 3654.98,
+    "occupancy_pct": 84.4,
+    "adr": 139.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-08",
+    "revenue_rooms": 4523.01,
+    "revenue_fnb": 952.32,
+    "revenue_other": 157.81,
+    "costs_total": 3364.5,
+    "occupancy_pct": 76.9,
+    "adr": 140.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-09",
+    "revenue_rooms": 4317.63,
+    "revenue_fnb": 798.11,
+    "revenue_other": 232.34,
+    "costs_total": 3256.88,
+    "occupancy_pct": 74.1,
+    "adr": 138.78,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-10",
+    "revenue_rooms": 4360.92,
+    "revenue_fnb": 857.12,
+    "revenue_other": 167.45,
+    "costs_total": 3268.42,
+    "occupancy_pct": 75.8,
+    "adr": 136.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-11",
+    "revenue_rooms": 4766.29,
+    "revenue_fnb": 1063.8,
+    "revenue_other": 271.14,
+    "costs_total": 3682.04,
+    "occupancy_pct": 80.5,
+    "adr": 140.98,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-12",
+    "revenue_rooms": 5331.53,
+    "revenue_fnb": 1074.47,
+    "revenue_other": 287.42,
+    "costs_total": 4172.98,
+    "occupancy_pct": 90.6,
+    "adr": 140.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-13",
+    "revenue_rooms": 5349.69,
+    "revenue_fnb": 985.12,
+    "revenue_other": 172.11,
+    "costs_total": 4020.14,
+    "occupancy_pct": 93.3,
+    "adr": 136.58,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-14",
+    "revenue_rooms": 4814.66,
+    "revenue_fnb": 1089.07,
+    "revenue_other": 151.05,
+    "costs_total": 3668.77,
+    "occupancy_pct": 83.3,
+    "adr": 137.54,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-15",
+    "revenue_rooms": 4234.98,
+    "revenue_fnb": 812.84,
+    "revenue_other": 185.62,
+    "costs_total": 3177.64,
+    "occupancy_pct": 72.0,
+    "adr": 140.06,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-16",
+    "revenue_rooms": 4266.47,
+    "revenue_fnb": 804.12,
+    "revenue_other": 178.83,
+    "costs_total": 3236.63,
+    "occupancy_pct": 72.3,
+    "adr": 140.46,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-17",
+    "revenue_rooms": 4415.23,
+    "revenue_fnb": 974.12,
+    "revenue_other": 156.18,
+    "costs_total": 3265.49,
+    "occupancy_pct": 74.3,
+    "adr": 141.47,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-18",
+    "revenue_rooms": 4505.83,
+    "revenue_fnb": 936.33,
+    "revenue_other": 228.73,
+    "costs_total": 3487.52,
+    "occupancy_pct": 77.3,
+    "adr": 138.75,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-19",
+    "revenue_rooms": 5250.63,
+    "revenue_fnb": 1014.91,
+    "revenue_other": 211.02,
+    "costs_total": 4043.53,
+    "occupancy_pct": 88.4,
+    "adr": 141.39,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-20",
+    "revenue_rooms": 5425.79,
+    "revenue_fnb": 1030.14,
+    "revenue_other": 227.22,
+    "costs_total": 4095.53,
+    "occupancy_pct": 92.2,
+    "adr": 140.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-21",
+    "revenue_rooms": 4837.56,
+    "revenue_fnb": 954.22,
+    "revenue_other": 204.58,
+    "costs_total": 3540.6,
+    "occupancy_pct": 84.4,
+    "adr": 136.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-22",
+    "revenue_rooms": 4392.84,
+    "revenue_fnb": 961.32,
+    "revenue_other": 197.26,
+    "costs_total": 3483.98,
+    "occupancy_pct": 73.2,
+    "adr": 142.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-23",
+    "revenue_rooms": 4402.86,
+    "revenue_fnb": 881.33,
+    "revenue_other": 238.91,
+    "costs_total": 3237.06,
+    "occupancy_pct": 74.1,
+    "adr": 141.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-24",
+    "revenue_rooms": 4484.86,
+    "revenue_fnb": 911.77,
+    "revenue_other": 148.14,
+    "costs_total": 3367.14,
+    "occupancy_pct": 76.0,
+    "adr": 140.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-25",
+    "revenue_rooms": 4695.54,
+    "revenue_fnb": 1070.02,
+    "revenue_other": 173.65,
+    "costs_total": 3709.51,
+    "occupancy_pct": 80.2,
+    "adr": 139.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-26",
+    "revenue_rooms": 5559.6,
+    "revenue_fnb": 1277.5,
+    "revenue_other": 284.73,
+    "costs_total": 4449.87,
+    "occupancy_pct": 93.4,
+    "adr": 141.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-27",
+    "revenue_rooms": 5562.95,
+    "revenue_fnb": 1133.43,
+    "revenue_other": 212.75,
+    "costs_total": 4201.7,
+    "occupancy_pct": 93.6,
+    "adr": 141.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-28",
+    "revenue_rooms": 4902.71,
+    "revenue_fnb": 1109.67,
+    "revenue_other": 266.07,
+    "costs_total": 3659.67,
+    "occupancy_pct": 83.0,
+    "adr": 140.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-29",
+    "revenue_rooms": 4273.93,
+    "revenue_fnb": 824.54,
+    "revenue_other": 239.04,
+    "costs_total": 3247.73,
+    "occupancy_pct": 74.8,
+    "adr": 136.11,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-09-30",
+    "revenue_rooms": 4525.29,
+    "revenue_fnb": 985.54,
+    "revenue_other": 161.9,
+    "costs_total": 3310.88,
+    "occupancy_pct": 77.3,
+    "adr": 139.35,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-01",
+    "revenue_rooms": 3855.0,
+    "revenue_fnb": 864.7,
+    "revenue_other": 139.88,
+    "costs_total": 3030.74,
+    "occupancy_pct": 69.4,
+    "adr": 132.25,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-02",
+    "revenue_rooms": 4297.6,
+    "revenue_fnb": 941.98,
+    "revenue_other": 256.87,
+    "costs_total": 3364.79,
+    "occupancy_pct": 75.1,
+    "adr": 136.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-03",
+    "revenue_rooms": 4861.99,
+    "revenue_fnb": 1025.68,
+    "revenue_other": 155.0,
+    "costs_total": 3562.04,
+    "occupancy_pct": 85.3,
+    "adr": 135.69,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-04",
+    "revenue_rooms": 5202.15,
+    "revenue_fnb": 1111.13,
+    "revenue_other": 305.56,
+    "costs_total": 4071.73,
+    "occupancy_pct": 89.3,
+    "adr": 138.68,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-05",
+    "revenue_rooms": 4207.17,
+    "revenue_fnb": 966.01,
+    "revenue_other": 200.18,
+    "costs_total": 3253.95,
+    "occupancy_pct": 75.2,
+    "adr": 133.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-06",
+    "revenue_rooms": 4070.9,
+    "revenue_fnb": 892.88,
+    "revenue_other": 152.94,
+    "costs_total": 3059.42,
+    "occupancy_pct": 71.2,
+    "adr": 136.12,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-07",
+    "revenue_rooms": 3821.68,
+    "revenue_fnb": 875.05,
+    "revenue_other": 122.79,
+    "costs_total": 2978.07,
+    "occupancy_pct": 65.5,
+    "adr": 138.88,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-08",
+    "revenue_rooms": 3983.19,
+    "revenue_fnb": 723.15,
+    "revenue_other": 199.23,
+    "costs_total": 2942.29,
+    "occupancy_pct": 71.8,
+    "adr": 132.04,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-09",
+    "revenue_rooms": 4230.72,
+    "revenue_fnb": 913.83,
+    "revenue_other": 191.63,
+    "costs_total": 3120.21,
+    "occupancy_pct": 74.5,
+    "adr": 135.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-10",
+    "revenue_rooms": 4784.15,
+    "revenue_fnb": 966.6,
+    "revenue_other": 188.79,
+    "costs_total": 3682.2,
+    "occupancy_pct": 81.7,
+    "adr": 139.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-11",
+    "revenue_rooms": 4911.46,
+    "revenue_fnb": 1125.62,
+    "revenue_other": 245.93,
+    "costs_total": 3726.11,
+    "occupancy_pct": 87.9,
+    "adr": 132.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-12",
+    "revenue_rooms": 4125.37,
+    "revenue_fnb": 752.09,
+    "revenue_other": 190.41,
+    "costs_total": 3120.6,
+    "occupancy_pct": 73.4,
+    "adr": 133.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-13",
+    "revenue_rooms": 3742.33,
+    "revenue_fnb": 717.66,
+    "revenue_other": 190.5,
+    "costs_total": 2864.22,
+    "occupancy_pct": 66.6,
+    "adr": 133.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-14",
+    "revenue_rooms": 3903.64,
+    "revenue_fnb": 717.68,
+    "revenue_other": 172.42,
+    "costs_total": 3007.43,
+    "occupancy_pct": 69.2,
+    "adr": 134.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-15",
+    "revenue_rooms": 3995.56,
+    "revenue_fnb": 858.25,
+    "revenue_other": 235.68,
+    "costs_total": 3064.5,
+    "occupancy_pct": 70.7,
+    "adr": 134.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-16",
+    "revenue_rooms": 4146.79,
+    "revenue_fnb": 849.74,
+    "revenue_other": 160.77,
+    "costs_total": 3043.41,
+    "occupancy_pct": 72.7,
+    "adr": 135.82,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-17",
+    "revenue_rooms": 4766.01,
+    "revenue_fnb": 896.86,
+    "revenue_other": 161.36,
+    "costs_total": 3500.4,
+    "occupancy_pct": 82.6,
+    "adr": 137.34,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-18",
+    "revenue_rooms": 4995.49,
+    "revenue_fnb": 983.16,
+    "revenue_other": 234.1,
+    "costs_total": 3789.61,
+    "occupancy_pct": 89.3,
+    "adr": 133.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-19",
+    "revenue_rooms": 4310.65,
+    "revenue_fnb": 846.06,
+    "revenue_other": 166.11,
+    "costs_total": 3339.39,
+    "occupancy_pct": 76.2,
+    "adr": 134.72,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-20",
+    "revenue_rooms": 3890.37,
+    "revenue_fnb": 806.1,
+    "revenue_other": 122.71,
+    "costs_total": 2905.36,
+    "occupancy_pct": 67.3,
+    "adr": 137.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-21",
+    "revenue_rooms": 3857.91,
+    "revenue_fnb": 830.05,
+    "revenue_other": 131.28,
+    "costs_total": 2826.33,
+    "occupancy_pct": 67.4,
+    "adr": 136.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-22",
+    "revenue_rooms": 4072.2,
+    "revenue_fnb": 856.46,
+    "revenue_other": 240.29,
+    "costs_total": 3078.33,
+    "occupancy_pct": 71.1,
+    "adr": 136.44,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-23",
+    "revenue_rooms": 4392.38,
+    "revenue_fnb": 954.81,
+    "revenue_other": 206.86,
+    "costs_total": 3316.02,
+    "occupancy_pct": 76.8,
+    "adr": 136.11,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-24",
+    "revenue_rooms": 4817.4,
+    "revenue_fnb": 1099.32,
+    "revenue_other": 277.32,
+    "costs_total": 3627.55,
+    "occupancy_pct": 86.0,
+    "adr": 133.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-25",
+    "revenue_rooms": 4995.98,
+    "revenue_fnb": 931.47,
+    "revenue_other": 216.94,
+    "costs_total": 3707.03,
+    "occupancy_pct": 87.0,
+    "adr": 136.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-26",
+    "revenue_rooms": 4263.64,
+    "revenue_fnb": 809.34,
+    "revenue_other": 142.48,
+    "costs_total": 3103.16,
+    "occupancy_pct": 74.7,
+    "adr": 135.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-27",
+    "revenue_rooms": 3838.09,
+    "revenue_fnb": 739.63,
+    "revenue_other": 154.33,
+    "costs_total": 2815.87,
+    "occupancy_pct": 65.7,
+    "adr": 139.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-28",
+    "revenue_rooms": 3807.36,
+    "revenue_fnb": 750.99,
+    "revenue_other": 179.33,
+    "costs_total": 2962.28,
+    "occupancy_pct": 67.0,
+    "adr": 135.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-29",
+    "revenue_rooms": 4053.47,
+    "revenue_fnb": 793.44,
+    "revenue_other": 234.25,
+    "costs_total": 3166.83,
+    "occupancy_pct": 72.0,
+    "adr": 134.12,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-30",
+    "revenue_rooms": 4236.15,
+    "revenue_fnb": 900.39,
+    "revenue_other": 186.51,
+    "costs_total": 3253.56,
+    "occupancy_pct": 74.0,
+    "adr": 136.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-10-31",
+    "revenue_rooms": 4812.89,
+    "revenue_fnb": 998.93,
+    "revenue_other": 159.19,
+    "costs_total": 3572.48,
+    "occupancy_pct": 86.6,
+    "adr": 132.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-01",
+    "revenue_rooms": 4296.35,
+    "revenue_fnb": 890.31,
+    "revenue_other": 186.07,
+    "costs_total": 3134.38,
+    "occupancy_pct": 79.3,
+    "adr": 129.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-02",
+    "revenue_rooms": 3949.45,
+    "revenue_fnb": 867.86,
+    "revenue_other": 159.77,
+    "costs_total": 3047.47,
+    "occupancy_pct": 70.6,
+    "adr": 133.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-03",
+    "revenue_rooms": 3250.52,
+    "revenue_fnb": 689.56,
+    "revenue_other": 146.9,
+    "costs_total": 2425.02,
+    "occupancy_pct": 59.6,
+    "adr": 129.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-04",
+    "revenue_rooms": 3097.13,
+    "revenue_fnb": 612.75,
+    "revenue_other": 137.44,
+    "costs_total": 2362.46,
+    "occupancy_pct": 57.4,
+    "adr": 128.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-05",
+    "revenue_rooms": 3363.67,
+    "revenue_fnb": 711.92,
+    "revenue_other": 130.32,
+    "costs_total": 2453.01,
+    "occupancy_pct": 62.0,
+    "adr": 129.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-06",
+    "revenue_rooms": 3524.07,
+    "revenue_fnb": 638.32,
+    "revenue_other": 196.04,
+    "costs_total": 2664.92,
+    "occupancy_pct": 62.8,
+    "adr": 133.71,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-07",
+    "revenue_rooms": 4175.74,
+    "revenue_fnb": 788.67,
+    "revenue_other": 228.34,
+    "costs_total": 3120.16,
+    "occupancy_pct": 73.9,
+    "adr": 134.54,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-08",
+    "revenue_rooms": 4301.38,
+    "revenue_fnb": 889.25,
+    "revenue_other": 224.76,
+    "costs_total": 3355.75,
+    "occupancy_pct": 79.7,
+    "adr": 128.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-09",
+    "revenue_rooms": 3806.38,
+    "revenue_fnb": 832.09,
+    "revenue_other": 118.64,
+    "costs_total": 2811.26,
+    "occupancy_pct": 67.4,
+    "adr": 134.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-10",
+    "revenue_rooms": 3328.59,
+    "revenue_fnb": 678.46,
+    "revenue_other": 179.65,
+    "costs_total": 2523.71,
+    "occupancy_pct": 59.6,
+    "adr": 133.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-11",
+    "revenue_rooms": 3316.27,
+    "revenue_fnb": 623.22,
+    "revenue_other": 190.43,
+    "costs_total": 2537.38,
+    "occupancy_pct": 60.5,
+    "adr": 130.44,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-12",
+    "revenue_rooms": 3376.93,
+    "revenue_fnb": 621.19,
+    "revenue_other": 107.18,
+    "costs_total": 2415.38,
+    "occupancy_pct": 63.0,
+    "adr": 127.68,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-13",
+    "revenue_rooms": 3368.52,
+    "revenue_fnb": 768.86,
+    "revenue_other": 110.78,
+    "costs_total": 2636.6,
+    "occupancy_pct": 63.1,
+    "adr": 127.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-14",
+    "revenue_rooms": 4099.0,
+    "revenue_fnb": 883.26,
+    "revenue_other": 174.07,
+    "costs_total": 3188.07,
+    "occupancy_pct": 76.7,
+    "adr": 127.2,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-15",
+    "revenue_rooms": 4264.59,
+    "revenue_fnb": 930.79,
+    "revenue_other": 196.86,
+    "costs_total": 3246.21,
+    "occupancy_pct": 77.2,
+    "adr": 131.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-16",
+    "revenue_rooms": 3705.59,
+    "revenue_fnb": 816.11,
+    "revenue_other": 120.43,
+    "costs_total": 2729.65,
+    "occupancy_pct": 65.6,
+    "adr": 134.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-17",
+    "revenue_rooms": 3409.97,
+    "revenue_fnb": 781.7,
+    "revenue_other": 159.57,
+    "costs_total": 2682.47,
+    "occupancy_pct": 61.3,
+    "adr": 132.41,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-18",
+    "revenue_rooms": 3471.18,
+    "revenue_fnb": 642.79,
+    "revenue_other": 136.5,
+    "costs_total": 2477.88,
+    "occupancy_pct": 61.8,
+    "adr": 133.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-19",
+    "revenue_rooms": 3213.24,
+    "revenue_fnb": 655.39,
+    "revenue_other": 186.93,
+    "costs_total": 2493.9,
+    "occupancy_pct": 60.1,
+    "adr": 127.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-20",
+    "revenue_rooms": 3564.83,
+    "revenue_fnb": 710.47,
+    "revenue_other": 169.96,
+    "costs_total": 2665.18,
+    "occupancy_pct": 65.6,
+    "adr": 129.47,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-21",
+    "revenue_rooms": 4193.73,
+    "revenue_fnb": 809.0,
+    "revenue_other": 219.59,
+    "costs_total": 3284.25,
+    "occupancy_pct": 76.8,
+    "adr": 130.08,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-22",
+    "revenue_rooms": 4496.87,
+    "revenue_fnb": 842.48,
+    "revenue_other": 135.05,
+    "costs_total": 3353.35,
+    "occupancy_pct": 81.0,
+    "adr": 132.2,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-23",
+    "revenue_rooms": 3672.25,
+    "revenue_fnb": 698.67,
+    "revenue_other": 147.93,
+    "costs_total": 2844.56,
+    "occupancy_pct": 67.8,
+    "adr": 128.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-24",
+    "revenue_rooms": 3315.61,
+    "revenue_fnb": 694.72,
+    "revenue_other": 117.05,
+    "costs_total": 2592.7,
+    "occupancy_pct": 59.3,
+    "adr": 133.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-25",
+    "revenue_rooms": 3169.48,
+    "revenue_fnb": 646.34,
+    "revenue_other": 155.04,
+    "costs_total": 2317.74,
+    "occupancy_pct": 58.1,
+    "adr": 129.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-26",
+    "revenue_rooms": 3238.49,
+    "revenue_fnb": 684.07,
+    "revenue_other": 184.57,
+    "costs_total": 2559.09,
+    "occupancy_pct": 60.1,
+    "adr": 128.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-27",
+    "revenue_rooms": 3756.47,
+    "revenue_fnb": 694.25,
+    "revenue_other": 164.24,
+    "costs_total": 2796.24,
+    "occupancy_pct": 68.3,
+    "adr": 130.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-28",
+    "revenue_rooms": 4271.88,
+    "revenue_fnb": 830.4,
+    "revenue_other": 247.92,
+    "costs_total": 3244.58,
+    "occupancy_pct": 77.9,
+    "adr": 130.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-29",
+    "revenue_rooms": 4253.14,
+    "revenue_fnb": 811.42,
+    "revenue_other": 180.83,
+    "costs_total": 3198.2,
+    "occupancy_pct": 78.1,
+    "adr": 129.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-11-30",
+    "revenue_rooms": 3712.26,
+    "revenue_fnb": 836.67,
+    "revenue_other": 217.28,
+    "costs_total": 2791.73,
+    "occupancy_pct": 65.8,
+    "adr": 134.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-01",
+    "revenue_rooms": 3647.48,
+    "revenue_fnb": 665.2,
+    "revenue_other": 143.17,
+    "costs_total": 2697.96,
+    "occupancy_pct": 64.0,
+    "adr": 135.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-02",
+    "revenue_rooms": 3690.48,
+    "revenue_fnb": 754.99,
+    "revenue_other": 133.88,
+    "costs_total": 2814.58,
+    "occupancy_pct": 66.8,
+    "adr": 131.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-03",
+    "revenue_rooms": 4002.84,
+    "revenue_fnb": 773.37,
+    "revenue_other": 165.13,
+    "costs_total": 3079.14,
+    "occupancy_pct": 69.0,
+    "adr": 138.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-04",
+    "revenue_rooms": 3854.92,
+    "revenue_fnb": 837.59,
+    "revenue_other": 125.15,
+    "costs_total": 2910.97,
+    "occupancy_pct": 70.4,
+    "adr": 130.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-05",
+    "revenue_rooms": 4677.48,
+    "revenue_fnb": 898.68,
+    "revenue_other": 150.68,
+    "costs_total": 3434.25,
+    "occupancy_pct": 81.4,
+    "adr": 136.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-06",
+    "revenue_rooms": 4675.85,
+    "revenue_fnb": 1006.73,
+    "revenue_other": 177.47,
+    "costs_total": 3643.8,
+    "occupancy_pct": 84.1,
+    "adr": 132.43,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-07",
+    "revenue_rooms": 3976.53,
+    "revenue_fnb": 772.57,
+    "revenue_other": 164.71,
+    "costs_total": 2937.23,
+    "occupancy_pct": 71.7,
+    "adr": 132.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-08",
+    "revenue_rooms": 3538.64,
+    "revenue_fnb": 795.75,
+    "revenue_other": 113.31,
+    "costs_total": 2766.59,
+    "occupancy_pct": 61.9,
+    "adr": 136.1,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-09",
+    "revenue_rooms": 3492.7,
+    "revenue_fnb": 648.93,
+    "revenue_other": 162.6,
+    "costs_total": 2548.91,
+    "occupancy_pct": 62.1,
+    "adr": 133.82,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-10",
+    "revenue_rooms": 3817.63,
+    "revenue_fnb": 803.19,
+    "revenue_other": 117.74,
+    "costs_total": 2906.11,
+    "occupancy_pct": 66.4,
+    "adr": 136.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-11",
+    "revenue_rooms": 3810.95,
+    "revenue_fnb": 715.47,
+    "revenue_other": 199.32,
+    "costs_total": 2811.01,
+    "occupancy_pct": 68.5,
+    "adr": 132.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-12",
+    "revenue_rooms": 4638.31,
+    "revenue_fnb": 842.85,
+    "revenue_other": 141.53,
+    "costs_total": 3538.47,
+    "occupancy_pct": 81.3,
+    "adr": 135.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-13",
+    "revenue_rooms": 4676.75,
+    "revenue_fnb": 976.29,
+    "revenue_other": 261.78,
+    "costs_total": 3675.01,
+    "occupancy_pct": 82.5,
+    "adr": 135.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-14",
+    "revenue_rooms": 3941.12,
+    "revenue_fnb": 722.53,
+    "revenue_other": 150.07,
+    "costs_total": 2862.8,
+    "occupancy_pct": 69.5,
+    "adr": 134.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-15",
+    "revenue_rooms": 3901.88,
+    "revenue_fnb": 882.47,
+    "revenue_other": 173.75,
+    "costs_total": 3017.75,
+    "occupancy_pct": 67.8,
+    "adr": 136.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-16",
+    "revenue_rooms": 3709.03,
+    "revenue_fnb": 776.94,
+    "revenue_other": 215.82,
+    "costs_total": 2765.15,
+    "occupancy_pct": 65.7,
+    "adr": 134.47,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-17",
+    "revenue_rooms": 3866.27,
+    "revenue_fnb": 745.29,
+    "revenue_other": 228.19,
+    "costs_total": 2964.97,
+    "occupancy_pct": 67.6,
+    "adr": 136.1,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-18",
+    "revenue_rooms": 4065.38,
+    "revenue_fnb": 736.47,
+    "revenue_other": 200.16,
+    "costs_total": 2933.0,
+    "occupancy_pct": 72.4,
+    "adr": 133.69,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-19",
+    "revenue_rooms": 4779.53,
+    "revenue_fnb": 1051.84,
+    "revenue_other": 144.54,
+    "costs_total": 3580.39,
+    "occupancy_pct": 82.1,
+    "adr": 138.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-20",
+    "revenue_rooms": 4799.53,
+    "revenue_fnb": 1000.99,
+    "revenue_other": 230.33,
+    "costs_total": 3696.05,
+    "occupancy_pct": 82.6,
+    "adr": 138.3,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-21",
+    "revenue_rooms": 4111.0,
+    "revenue_fnb": 872.61,
+    "revenue_other": 191.74,
+    "costs_total": 3217.85,
+    "occupancy_pct": 75.2,
+    "adr": 130.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-22",
+    "revenue_rooms": 3627.37,
+    "revenue_fnb": 750.03,
+    "revenue_other": 172.45,
+    "costs_total": 2671.58,
+    "occupancy_pct": 65.6,
+    "adr": 131.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-23",
+    "revenue_rooms": 3560.53,
+    "revenue_fnb": 704.71,
+    "revenue_other": 197.06,
+    "costs_total": 2611.66,
+    "occupancy_pct": 64.1,
+    "adr": 132.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-24",
+    "revenue_rooms": 3667.06,
+    "revenue_fnb": 662.07,
+    "revenue_other": 114.02,
+    "costs_total": 2763.57,
+    "occupancy_pct": 66.4,
+    "adr": 131.47,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-25",
+    "revenue_rooms": 3796.06,
+    "revenue_fnb": 707.55,
+    "revenue_other": 154.36,
+    "costs_total": 2734.66,
+    "occupancy_pct": 67.0,
+    "adr": 134.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-26",
+    "revenue_rooms": 4392.02,
+    "revenue_fnb": 977.35,
+    "revenue_other": 226.12,
+    "costs_total": 3367.98,
+    "occupancy_pct": 77.9,
+    "adr": 134.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-27",
+    "revenue_rooms": 4846.39,
+    "revenue_fnb": 932.5,
+    "revenue_other": 254.75,
+    "costs_total": 3559.81,
+    "occupancy_pct": 86.4,
+    "adr": 133.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-28",
+    "revenue_rooms": 3929.83,
+    "revenue_fnb": 718.84,
+    "revenue_other": 130.39,
+    "costs_total": 2836.53,
+    "occupancy_pct": 70.8,
+    "adr": 132.12,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-29",
+    "revenue_rooms": 3746.61,
+    "revenue_fnb": 675.54,
+    "revenue_other": 129.38,
+    "costs_total": 2855.81,
+    "occupancy_pct": 64.7,
+    "adr": 137.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-30",
+    "revenue_rooms": 3600.35,
+    "revenue_fnb": 648.82,
+    "revenue_other": 164.5,
+    "costs_total": 2703.43,
+    "occupancy_pct": 62.2,
+    "adr": 137.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2025-12-31",
+    "revenue_rooms": 3929.66,
+    "revenue_fnb": 728.55,
+    "revenue_other": 142.29,
+    "costs_total": 2824.57,
+    "occupancy_pct": 68.9,
+    "adr": 135.83,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-01",
+    "revenue_rooms": 3313.21,
+    "revenue_fnb": 611.09,
+    "revenue_other": 174.21,
+    "costs_total": 2444.14,
+    "occupancy_pct": 60.5,
+    "adr": 130.32,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-02",
+    "revenue_rooms": 3588.95,
+    "revenue_fnb": 725.56,
+    "revenue_other": 197.47,
+    "costs_total": 2771.83,
+    "occupancy_pct": 67.7,
+    "adr": 126.26,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-03",
+    "revenue_rooms": 3727.06,
+    "revenue_fnb": 837.22,
+    "revenue_other": 211.02,
+    "costs_total": 2901.49,
+    "occupancy_pct": 71.7,
+    "adr": 123.8,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-04",
+    "revenue_rooms": 3426.49,
+    "revenue_fnb": 679.92,
+    "revenue_other": 191.67,
+    "costs_total": 2702.83,
+    "occupancy_pct": 64.3,
+    "adr": 126.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-05",
+    "revenue_rooms": 3079.27,
+    "revenue_fnb": 616.72,
+    "revenue_other": 138.91,
+    "costs_total": 2376.3,
+    "occupancy_pct": 57.0,
+    "adr": 128.57,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-06",
+    "revenue_rooms": 2802.45,
+    "revenue_fnb": 553.05,
+    "revenue_other": 143.3,
+    "costs_total": 2075.55,
+    "occupancy_pct": 51.8,
+    "adr": 128.73,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-07",
+    "revenue_rooms": 3016.69,
+    "revenue_fnb": 577.25,
+    "revenue_other": 160.35,
+    "costs_total": 2242.2,
+    "occupancy_pct": 56.1,
+    "adr": 128.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-08",
+    "revenue_rooms": 3210.65,
+    "revenue_fnb": 664.06,
+    "revenue_other": 181.9,
+    "costs_total": 2525.62,
+    "occupancy_pct": 59.4,
+    "adr": 128.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-09",
+    "revenue_rooms": 3776.48,
+    "revenue_fnb": 831.71,
+    "revenue_other": 157.27,
+    "costs_total": 2771.52,
+    "occupancy_pct": 69.2,
+    "adr": 129.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-10",
+    "revenue_rooms": 4147.52,
+    "revenue_fnb": 831.47,
+    "revenue_other": 155.82,
+    "costs_total": 3076.18,
+    "occupancy_pct": 76.3,
+    "adr": 129.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-11",
+    "revenue_rooms": 3341.93,
+    "revenue_fnb": 695.36,
+    "revenue_other": 160.27,
+    "costs_total": 2439.9,
+    "occupancy_pct": 64.2,
+    "adr": 123.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-12",
+    "revenue_rooms": 3032.57,
+    "revenue_fnb": 682.45,
+    "revenue_other": 148.41,
+    "costs_total": 2270.08,
+    "occupancy_pct": 55.8,
+    "adr": 129.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-13",
+    "revenue_rooms": 2857.55,
+    "revenue_fnb": 617.99,
+    "revenue_other": 126.96,
+    "costs_total": 2212.99,
+    "occupancy_pct": 54.8,
+    "adr": 124.25,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-14",
+    "revenue_rooms": 2823.64,
+    "revenue_fnb": 609.9,
+    "revenue_other": 112.56,
+    "costs_total": 2079.43,
+    "occupancy_pct": 53.8,
+    "adr": 125.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-15",
+    "revenue_rooms": 3332.91,
+    "revenue_fnb": 687.77,
+    "revenue_other": 161.96,
+    "costs_total": 2549.54,
+    "occupancy_pct": 61.2,
+    "adr": 129.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-16",
+    "revenue_rooms": 3693.65,
+    "revenue_fnb": 677.77,
+    "revenue_other": 128.17,
+    "costs_total": 2783.72,
+    "occupancy_pct": 68.6,
+    "adr": 128.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-17",
+    "revenue_rooms": 3806.2,
+    "revenue_fnb": 729.8,
+    "revenue_other": 217.74,
+    "costs_total": 2810.24,
+    "occupancy_pct": 73.2,
+    "adr": 123.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-18",
+    "revenue_rooms": 3562.92,
+    "revenue_fnb": 713.98,
+    "revenue_other": 157.81,
+    "costs_total": 2733.94,
+    "occupancy_pct": 64.6,
+    "adr": 131.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-19",
+    "revenue_rooms": 2814.6,
+    "revenue_fnb": 612.15,
+    "revenue_other": 147.13,
+    "costs_total": 2152.83,
+    "occupancy_pct": 51.2,
+    "adr": 130.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-20",
+    "revenue_rooms": 2949.79,
+    "revenue_fnb": 624.42,
+    "revenue_other": 115.82,
+    "costs_total": 2161.37,
+    "occupancy_pct": 54.3,
+    "adr": 129.33,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-21",
+    "revenue_rooms": 3009.35,
+    "revenue_fnb": 547.85,
+    "revenue_other": 140.48,
+    "costs_total": 2245.89,
+    "occupancy_pct": 56.7,
+    "adr": 126.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-22",
+    "revenue_rooms": 3062.45,
+    "revenue_fnb": 646.25,
+    "revenue_other": 121.93,
+    "costs_total": 2355.22,
+    "occupancy_pct": 57.4,
+    "adr": 127.03,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-23",
+    "revenue_rooms": 3815.77,
+    "revenue_fnb": 733.47,
+    "revenue_other": 177.38,
+    "costs_total": 2928.65,
+    "occupancy_pct": 70.3,
+    "adr": 129.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-24",
+    "revenue_rooms": 4015.93,
+    "revenue_fnb": 797.63,
+    "revenue_other": 134.08,
+    "costs_total": 2928.91,
+    "occupancy_pct": 74.4,
+    "adr": 128.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-25",
+    "revenue_rooms": 3458.84,
+    "revenue_fnb": 769.85,
+    "revenue_other": 158.3,
+    "costs_total": 2734.07,
+    "occupancy_pct": 64.8,
+    "adr": 127.01,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-26",
+    "revenue_rooms": 3077.01,
+    "revenue_fnb": 673.97,
+    "revenue_other": 158.71,
+    "costs_total": 2333.83,
+    "occupancy_pct": 55.7,
+    "adr": 131.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-27",
+    "revenue_rooms": 3048.57,
+    "revenue_fnb": 647.62,
+    "revenue_other": 110.55,
+    "costs_total": 2351.81,
+    "occupancy_pct": 55.6,
+    "adr": 130.65,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-28",
+    "revenue_rooms": 3046.08,
+    "revenue_fnb": 606.15,
+    "revenue_other": 143.7,
+    "costs_total": 2254.36,
+    "occupancy_pct": 55.5,
+    "adr": 130.61,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-29",
+    "revenue_rooms": 3378.52,
+    "revenue_fnb": 653.24,
+    "revenue_other": 183.31,
+    "costs_total": 2564.2,
+    "occupancy_pct": 62.3,
+    "adr": 129.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-30",
+    "revenue_rooms": 3926.02,
+    "revenue_fnb": 821.11,
+    "revenue_other": 180.98,
+    "costs_total": 2881.6,
+    "occupancy_pct": 71.5,
+    "adr": 130.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-01-31",
+    "revenue_rooms": 4295.88,
+    "revenue_fnb": 902.82,
+    "revenue_other": 142.66,
+    "costs_total": 3307.05,
+    "occupancy_pct": 77.5,
+    "adr": 131.98,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-01",
+    "revenue_rooms": 3450.91,
+    "revenue_fnb": 732.82,
+    "revenue_other": 182.27,
+    "costs_total": 2693.45,
+    "occupancy_pct": 65.4,
+    "adr": 125.61,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-02",
+    "revenue_rooms": 2823.8,
+    "revenue_fnb": 594.93,
+    "revenue_other": 99.99,
+    "costs_total": 2113.37,
+    "occupancy_pct": 53.5,
+    "adr": 125.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-03",
+    "revenue_rooms": 3199.27,
+    "revenue_fnb": 663.89,
+    "revenue_other": 182.48,
+    "costs_total": 2428.14,
+    "occupancy_pct": 59.4,
+    "adr": 128.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-04",
+    "revenue_rooms": 3414.68,
+    "revenue_fnb": 680.93,
+    "revenue_other": 186.89,
+    "costs_total": 2545.33,
+    "occupancy_pct": 61.6,
+    "adr": 131.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-05",
+    "revenue_rooms": 3185.34,
+    "revenue_fnb": 573.43,
+    "revenue_other": 188.97,
+    "costs_total": 2391.85,
+    "occupancy_pct": 59.7,
+    "adr": 127.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-06",
+    "revenue_rooms": 4139.68,
+    "revenue_fnb": 898.57,
+    "revenue_other": 216.69,
+    "costs_total": 3287.36,
+    "occupancy_pct": 75.5,
+    "adr": 130.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-07",
+    "revenue_rooms": 4076.43,
+    "revenue_fnb": 761.46,
+    "revenue_other": 199.47,
+    "costs_total": 3110.29,
+    "occupancy_pct": 74.5,
+    "adr": 130.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-08",
+    "revenue_rooms": 3442.44,
+    "revenue_fnb": 686.86,
+    "revenue_other": 145.09,
+    "costs_total": 2687.27,
+    "occupancy_pct": 63.0,
+    "adr": 130.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-09",
+    "revenue_rooms": 3022.99,
+    "revenue_fnb": 640.47,
+    "revenue_other": 166.64,
+    "costs_total": 2241.35,
+    "occupancy_pct": 57.4,
+    "adr": 125.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-10",
+    "revenue_rooms": 3198.66,
+    "revenue_fnb": 661.38,
+    "revenue_other": 164.73,
+    "costs_total": 2451.0,
+    "occupancy_pct": 57.5,
+    "adr": 132.56,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-11",
+    "revenue_rooms": 3077.59,
+    "revenue_fnb": 639.81,
+    "revenue_other": 102.55,
+    "costs_total": 2315.22,
+    "occupancy_pct": 56.1,
+    "adr": 130.53,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-12",
+    "revenue_rooms": 3279.25,
+    "revenue_fnb": 659.85,
+    "revenue_other": 191.19,
+    "costs_total": 2568.78,
+    "occupancy_pct": 60.4,
+    "adr": 129.26,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-13",
+    "revenue_rooms": 3738.36,
+    "revenue_fnb": 848.55,
+    "revenue_other": 139.78,
+    "costs_total": 2743.35,
+    "occupancy_pct": 71.0,
+    "adr": 125.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-14",
+    "revenue_rooms": 3954.47,
+    "revenue_fnb": 798.88,
+    "revenue_other": 140.67,
+    "costs_total": 2889.44,
+    "occupancy_pct": 75.0,
+    "adr": 125.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-15",
+    "revenue_rooms": 3496.18,
+    "revenue_fnb": 782.17,
+    "revenue_other": 146.31,
+    "costs_total": 2776.79,
+    "occupancy_pct": 65.7,
+    "adr": 126.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-16",
+    "revenue_rooms": 2977.28,
+    "revenue_fnb": 542.15,
+    "revenue_other": 115.43,
+    "costs_total": 2231.04,
+    "occupancy_pct": 54.5,
+    "adr": 130.06,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-17",
+    "revenue_rooms": 3036.81,
+    "revenue_fnb": 691.18,
+    "revenue_other": 136.72,
+    "costs_total": 2405.8,
+    "occupancy_pct": 54.1,
+    "adr": 133.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-18",
+    "revenue_rooms": 2996.51,
+    "revenue_fnb": 558.06,
+    "revenue_other": 90.42,
+    "costs_total": 2205.98,
+    "occupancy_pct": 55.9,
+    "adr": 127.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-19",
+    "revenue_rooms": 3291.09,
+    "revenue_fnb": 740.58,
+    "revenue_other": 132.27,
+    "costs_total": 2615.6,
+    "occupancy_pct": 59.9,
+    "adr": 130.79,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-20",
+    "revenue_rooms": 4052.46,
+    "revenue_fnb": 834.26,
+    "revenue_other": 242.23,
+    "costs_total": 3040.48,
+    "occupancy_pct": 75.0,
+    "adr": 128.65,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-21",
+    "revenue_rooms": 4060.11,
+    "revenue_fnb": 870.99,
+    "revenue_other": 242.93,
+    "costs_total": 3033.44,
+    "occupancy_pct": 76.8,
+    "adr": 125.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-22",
+    "revenue_rooms": 3246.74,
+    "revenue_fnb": 722.43,
+    "revenue_other": 154.44,
+    "costs_total": 2570.69,
+    "occupancy_pct": 60.9,
+    "adr": 126.95,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-23",
+    "revenue_rooms": 3045.4,
+    "revenue_fnb": 574.77,
+    "revenue_other": 92.53,
+    "costs_total": 2179.57,
+    "occupancy_pct": 55.4,
+    "adr": 130.97,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-24",
+    "revenue_rooms": 3104.34,
+    "revenue_fnb": 668.61,
+    "revenue_other": 164.29,
+    "costs_total": 2401.87,
+    "occupancy_pct": 58.0,
+    "adr": 127.41,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-25",
+    "revenue_rooms": 3277.25,
+    "revenue_fnb": 594.14,
+    "revenue_other": 151.99,
+    "costs_total": 2444.48,
+    "occupancy_pct": 60.4,
+    "adr": 129.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-26",
+    "revenue_rooms": 3294.6,
+    "revenue_fnb": 696.14,
+    "revenue_other": 191.06,
+    "costs_total": 2484.04,
+    "occupancy_pct": 59.1,
+    "adr": 132.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-27",
+    "revenue_rooms": 3803.04,
+    "revenue_fnb": 762.91,
+    "revenue_other": 136.55,
+    "costs_total": 2784.03,
+    "occupancy_pct": 70.6,
+    "adr": 128.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-02-28",
+    "revenue_rooms": 4091.05,
+    "revenue_fnb": 751.43,
+    "revenue_other": 217.5,
+    "costs_total": 2978.46,
+    "occupancy_pct": 74.0,
+    "adr": 131.59,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-01",
+    "revenue_rooms": 4050.73,
+    "revenue_fnb": 918.18,
+    "revenue_other": 138.51,
+    "costs_total": 3016.12,
+    "occupancy_pct": 73.5,
+    "adr": 131.24,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-02",
+    "revenue_rooms": 3617.4,
+    "revenue_fnb": 800.03,
+    "revenue_other": 137.94,
+    "costs_total": 2820.85,
+    "occupancy_pct": 65.4,
+    "adr": 131.69,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-03",
+    "revenue_rooms": 3796.03,
+    "revenue_fnb": 816.81,
+    "revenue_other": 119.58,
+    "costs_total": 2899.23,
+    "occupancy_pct": 65.9,
+    "adr": 137.08,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-04",
+    "revenue_rooms": 3830.56,
+    "revenue_fnb": 754.03,
+    "revenue_other": 211.7,
+    "costs_total": 3015.03,
+    "occupancy_pct": 66.4,
+    "adr": 137.31,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-05",
+    "revenue_rooms": 4084.12,
+    "revenue_fnb": 904.74,
+    "revenue_other": 138.51,
+    "costs_total": 3055.01,
+    "occupancy_pct": 72.7,
+    "adr": 133.78,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-06",
+    "revenue_rooms": 4710.49,
+    "revenue_fnb": 966.97,
+    "revenue_other": 219.59,
+    "costs_total": 3435.58,
+    "occupancy_pct": 81.0,
+    "adr": 138.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-07",
+    "revenue_rooms": 5104.58,
+    "revenue_fnb": 1067.11,
+    "revenue_other": 273.96,
+    "costs_total": 3845.6,
+    "occupancy_pct": 88.5,
+    "adr": 137.34,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-08",
+    "revenue_rooms": 4162.44,
+    "revenue_fnb": 816.91,
+    "revenue_other": 130.31,
+    "costs_total": 3038.76,
+    "occupancy_pct": 74.1,
+    "adr": 133.83,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-09",
+    "revenue_rooms": 3816.38,
+    "revenue_fnb": 852.46,
+    "revenue_other": 198.17,
+    "costs_total": 2925.28,
+    "occupancy_pct": 67.4,
+    "adr": 134.72,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-10",
+    "revenue_rooms": 3805.08,
+    "revenue_fnb": 757.27,
+    "revenue_other": 134.37,
+    "costs_total": 2841.03,
+    "occupancy_pct": 65.5,
+    "adr": 138.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-11",
+    "revenue_rooms": 4025.56,
+    "revenue_fnb": 821.92,
+    "revenue_other": 231.68,
+    "costs_total": 3198.76,
+    "occupancy_pct": 68.7,
+    "adr": 139.54,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-12",
+    "revenue_rooms": 4157.48,
+    "revenue_fnb": 859.55,
+    "revenue_other": 134.37,
+    "costs_total": 3069.59,
+    "occupancy_pct": 73.2,
+    "adr": 135.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-13",
+    "revenue_rooms": 4516.42,
+    "revenue_fnb": 1033.91,
+    "revenue_other": 265.11,
+    "costs_total": 3497.61,
+    "occupancy_pct": 80.0,
+    "adr": 134.44,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-14",
+    "revenue_rooms": 4865.39,
+    "revenue_fnb": 984.79,
+    "revenue_other": 194.49,
+    "costs_total": 3614.43,
+    "occupancy_pct": 86.0,
+    "adr": 134.74,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-15",
+    "revenue_rooms": 4365.09,
+    "revenue_fnb": 962.98,
+    "revenue_other": 227.58,
+    "costs_total": 3258.9,
+    "occupancy_pct": 75.4,
+    "adr": 137.84,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-16",
+    "revenue_rooms": 3828.96,
+    "revenue_fnb": 709.1,
+    "revenue_other": 120.67,
+    "costs_total": 2908.27,
+    "occupancy_pct": 67.4,
+    "adr": 135.24,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-17",
+    "revenue_rooms": 3792.46,
+    "revenue_fnb": 846.39,
+    "revenue_other": 141.12,
+    "costs_total": 2959.47,
+    "occupancy_pct": 64.9,
+    "adr": 139.18,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-18",
+    "revenue_rooms": 3863.26,
+    "revenue_fnb": 746.55,
+    "revenue_other": 123.0,
+    "costs_total": 2843.19,
+    "occupancy_pct": 70.0,
+    "adr": 131.37,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-19",
+    "revenue_rooms": 3883.37,
+    "revenue_fnb": 714.32,
+    "revenue_other": 213.91,
+    "costs_total": 2880.44,
+    "occupancy_pct": 67.5,
+    "adr": 137.07,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-20",
+    "revenue_rooms": 4790.85,
+    "revenue_fnb": 1012.57,
+    "revenue_other": 262.23,
+    "costs_total": 3707.52,
+    "occupancy_pct": 82.7,
+    "adr": 137.87,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-21",
+    "revenue_rooms": 5027.22,
+    "revenue_fnb": 1146.34,
+    "revenue_other": 170.41,
+    "costs_total": 3799.49,
+    "occupancy_pct": 85.7,
+    "adr": 139.73,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-22",
+    "revenue_rooms": 4285.6,
+    "revenue_fnb": 868.41,
+    "revenue_other": 135.65,
+    "costs_total": 3179.99,
+    "occupancy_pct": 74.9,
+    "adr": 136.29,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-23",
+    "revenue_rooms": 3574.49,
+    "revenue_fnb": 666.0,
+    "revenue_other": 149.13,
+    "costs_total": 2577.57,
+    "occupancy_pct": 63.0,
+    "adr": 135.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-24",
+    "revenue_rooms": 3875.62,
+    "revenue_fnb": 817.04,
+    "revenue_other": 140.88,
+    "costs_total": 2824.25,
+    "occupancy_pct": 67.1,
+    "adr": 137.49,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-25",
+    "revenue_rooms": 3914.42,
+    "revenue_fnb": 889.39,
+    "revenue_other": 221.37,
+    "costs_total": 3047.3,
+    "occupancy_pct": 68.3,
+    "adr": 136.51,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-26",
+    "revenue_rooms": 4235.02,
+    "revenue_fnb": 830.65,
+    "revenue_other": 147.71,
+    "costs_total": 3061.95,
+    "occupancy_pct": 72.2,
+    "adr": 139.64,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-27",
+    "revenue_rooms": 4816.29,
+    "revenue_fnb": 872.03,
+    "revenue_other": 202.88,
+    "costs_total": 3549.1,
+    "occupancy_pct": 83.3,
+    "adr": 137.65,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-28",
+    "revenue_rooms": 4959.05,
+    "revenue_fnb": 1108.93,
+    "revenue_other": 228.86,
+    "costs_total": 3912.57,
+    "occupancy_pct": 88.0,
+    "adr": 134.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-29",
+    "revenue_rooms": 4004.67,
+    "revenue_fnb": 780.63,
+    "revenue_other": 171.65,
+    "costs_total": 3015.51,
+    "occupancy_pct": 70.9,
+    "adr": 134.41,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-30",
+    "revenue_rooms": 3758.15,
+    "revenue_fnb": 826.24,
+    "revenue_other": 191.05,
+    "costs_total": 2849.89,
+    "occupancy_pct": 68.0,
+    "adr": 131.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-03-31",
+    "revenue_rooms": 3922.75,
+    "revenue_fnb": 885.24,
+    "revenue_other": 225.86,
+    "costs_total": 3085.26,
+    "occupancy_pct": 67.9,
+    "adr": 137.64,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-01",
+    "revenue_rooms": 4325.38,
+    "revenue_fnb": 883.41,
+    "revenue_other": 149.06,
+    "costs_total": 3110.37,
+    "occupancy_pct": 76.0,
+    "adr": 135.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-02",
+    "revenue_rooms": 4717.57,
+    "revenue_fnb": 911.55,
+    "revenue_other": 209.14,
+    "costs_total": 3429.87,
+    "occupancy_pct": 79.3,
+    "adr": 141.66,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-03",
+    "revenue_rooms": 5173.08,
+    "revenue_fnb": 1051.09,
+    "revenue_other": 253.53,
+    "costs_total": 3905.05,
+    "occupancy_pct": 88.0,
+    "adr": 139.92,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-04",
+    "revenue_rooms": 5292.66,
+    "revenue_fnb": 1131.27,
+    "revenue_other": 309.25,
+    "costs_total": 3911.93,
+    "occupancy_pct": 88.7,
+    "adr": 141.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-05",
+    "revenue_rooms": 4887.61,
+    "revenue_fnb": 1084.29,
+    "revenue_other": 228.05,
+    "costs_total": 3766.6,
+    "occupancy_pct": 81.3,
+    "adr": 143.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-06",
+    "revenue_rooms": 3977.1,
+    "revenue_fnb": 776.16,
+    "revenue_other": 152.74,
+    "costs_total": 3074.14,
+    "occupancy_pct": 68.0,
+    "adr": 139.34,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-07",
+    "revenue_rooms": 3921.13,
+    "revenue_fnb": 720.03,
+    "revenue_other": 185.25,
+    "costs_total": 2865.35,
+    "occupancy_pct": 69.0,
+    "adr": 135.35,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-08",
+    "revenue_rooms": 4138.35,
+    "revenue_fnb": 747.17,
+    "revenue_other": 152.88,
+    "costs_total": 3135.49,
+    "occupancy_pct": 70.0,
+    "adr": 140.73,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-09",
+    "revenue_rooms": 4391.95,
+    "revenue_fnb": 871.66,
+    "revenue_other": 240.17,
+    "costs_total": 3417.41,
+    "occupancy_pct": 75.2,
+    "adr": 139.09,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-10",
+    "revenue_rooms": 4904.3,
+    "revenue_fnb": 1033.76,
+    "revenue_other": 242.71,
+    "costs_total": 3601.2,
+    "occupancy_pct": 83.9,
+    "adr": 139.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-11",
+    "revenue_rooms": 5337.58,
+    "revenue_fnb": 1216.99,
+    "revenue_other": 249.89,
+    "costs_total": 4028.12,
+    "occupancy_pct": 91.6,
+    "adr": 138.73,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-12",
+    "revenue_rooms": 4359.54,
+    "revenue_fnb": 874.07,
+    "revenue_other": 253.27,
+    "costs_total": 3255.69,
+    "occupancy_pct": 75.8,
+    "adr": 137.0,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-13",
+    "revenue_rooms": 4127.41,
+    "revenue_fnb": 854.51,
+    "revenue_other": 184.64,
+    "costs_total": 3252.57,
+    "occupancy_pct": 69.9,
+    "adr": 140.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-14",
+    "revenue_rooms": 4199.05,
+    "revenue_fnb": 814.56,
+    "revenue_other": 137.95,
+    "costs_total": 3014.25,
+    "occupancy_pct": 73.5,
+    "adr": 135.96,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-15",
+    "revenue_rooms": 4256.66,
+    "revenue_fnb": 964.03,
+    "revenue_other": 185.49,
+    "costs_total": 3250.42,
+    "occupancy_pct": 72.3,
+    "adr": 140.12,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-16",
+    "revenue_rooms": 4307.71,
+    "revenue_fnb": 927.19,
+    "revenue_other": 203.95,
+    "costs_total": 3215.75,
+    "occupancy_pct": 74.9,
+    "adr": 136.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-17",
+    "revenue_rooms": 5025.17,
+    "revenue_fnb": 1146.87,
+    "revenue_other": 158.31,
+    "costs_total": 3916.66,
+    "occupancy_pct": 85.3,
+    "adr": 140.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-18",
+    "revenue_rooms": 5388.47,
+    "revenue_fnb": 978.84,
+    "revenue_other": 220.0,
+    "costs_total": 3939.21,
+    "occupancy_pct": 93.1,
+    "adr": 137.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-19",
+    "revenue_rooms": 4338.69,
+    "revenue_fnb": 793.32,
+    "revenue_other": 182.82,
+    "costs_total": 3255.03,
+    "occupancy_pct": 75.2,
+    "adr": 137.42,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-20",
+    "revenue_rooms": 4236.81,
+    "revenue_fnb": 925.24,
+    "revenue_other": 231.92,
+    "costs_total": 3317.19,
+    "occupancy_pct": 71.9,
+    "adr": 140.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-21",
+    "revenue_rooms": 4377.21,
+    "revenue_fnb": 826.98,
+    "revenue_other": 191.57,
+    "costs_total": 3184.35,
+    "occupancy_pct": 73.8,
+    "adr": 141.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-22",
+    "revenue_rooms": 4207.01,
+    "revenue_fnb": 897.33,
+    "revenue_other": 192.3,
+    "costs_total": 3093.83,
+    "occupancy_pct": 72.4,
+    "adr": 138.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-23",
+    "revenue_rooms": 4665.74,
+    "revenue_fnb": 861.18,
+    "revenue_other": 152.02,
+    "costs_total": 3415.34,
+    "occupancy_pct": 78.3,
+    "adr": 141.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-24",
+    "revenue_rooms": 5085.21,
+    "revenue_fnb": 994.1,
+    "revenue_other": 282.73,
+    "costs_total": 3976.22,
+    "occupancy_pct": 88.5,
+    "adr": 136.77,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-25",
+    "revenue_rooms": 5139.55,
+    "revenue_fnb": 1087.44,
+    "revenue_other": 179.79,
+    "costs_total": 3891.08,
+    "occupancy_pct": 89.5,
+    "adr": 136.73,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-26",
+    "revenue_rooms": 4542.52,
+    "revenue_fnb": 974.15,
+    "revenue_other": 177.58,
+    "costs_total": 3421.03,
+    "occupancy_pct": 77.7,
+    "adr": 139.11,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-27",
+    "revenue_rooms": 4110.34,
+    "revenue_fnb": 886.83,
+    "revenue_other": 189.26,
+    "costs_total": 3211.49,
+    "occupancy_pct": 68.4,
+    "adr": 143.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-28",
+    "revenue_rooms": 4190.12,
+    "revenue_fnb": 860.05,
+    "revenue_other": 140.54,
+    "costs_total": 3158.75,
+    "occupancy_pct": 69.8,
+    "adr": 143.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-29",
+    "revenue_rooms": 4006.27,
+    "revenue_fnb": 906.46,
+    "revenue_other": 188.94,
+    "costs_total": 3073.98,
+    "occupancy_pct": 70.0,
+    "adr": 136.26,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-04-30",
+    "revenue_rooms": 4731.7,
+    "revenue_fnb": 969.77,
+    "revenue_other": 233.06,
+    "costs_total": 3482.59,
+    "occupancy_pct": 79.2,
+    "adr": 142.21,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-01",
+    "revenue_rooms": 5411.93,
+    "revenue_fnb": 1139.34,
+    "revenue_other": 183.63,
+    "costs_total": 3950.27,
+    "occupancy_pct": 90.6,
+    "adr": 142.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-02",
+    "revenue_rooms": 5631.5,
+    "revenue_fnb": 1258.64,
+    "revenue_other": 189.86,
+    "costs_total": 4162.43,
+    "occupancy_pct": 95.1,
+    "adr": 141.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-03",
+    "revenue_rooms": 4951.57,
+    "revenue_fnb": 921.63,
+    "revenue_other": 195.7,
+    "costs_total": 3630.56,
+    "occupancy_pct": 81.4,
+    "adr": 144.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-04",
+    "revenue_rooms": 4570.87,
+    "revenue_fnb": 940.61,
+    "revenue_other": 241.44,
+    "costs_total": 3609.29,
+    "occupancy_pct": 77.3,
+    "adr": 140.84,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-05",
+    "revenue_rooms": 4616.97,
+    "revenue_fnb": 859.75,
+    "revenue_other": 157.94,
+    "costs_total": 3507.96,
+    "occupancy_pct": 75.5,
+    "adr": 145.55,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-06",
+    "revenue_rooms": 4751.87,
+    "revenue_fnb": 994.09,
+    "revenue_other": 283.03,
+    "costs_total": 3501.74,
+    "occupancy_pct": 79.0,
+    "adr": 143.16,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-07",
+    "revenue_rooms": 4758.33,
+    "revenue_fnb": 1030.54,
+    "revenue_other": 284.4,
+    "costs_total": 3743.9,
+    "occupancy_pct": 79.5,
+    "adr": 142.44,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-08",
+    "revenue_rooms": 5234.0,
+    "revenue_fnb": 1110.21,
+    "revenue_other": 171.61,
+    "costs_total": 3941.27,
+    "occupancy_pct": 90.4,
+    "adr": 137.78,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-09",
+    "revenue_rooms": 5599.94,
+    "revenue_fnb": 1259.9,
+    "revenue_other": 222.29,
+    "costs_total": 4460.96,
+    "occupancy_pct": 92.4,
+    "adr": 144.28,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-10",
+    "revenue_rooms": 4937.46,
+    "revenue_fnb": 1015.24,
+    "revenue_other": 276.95,
+    "costs_total": 3743.27,
+    "occupancy_pct": 83.7,
+    "adr": 140.38,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-11",
+    "revenue_rooms": 4557.9,
+    "revenue_fnb": 896.96,
+    "revenue_other": 140.6,
+    "costs_total": 3498.81,
+    "occupancy_pct": 75.6,
+    "adr": 143.52,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-12",
+    "revenue_rooms": 4409.8,
+    "revenue_fnb": 860.36,
+    "revenue_other": 197.15,
+    "costs_total": 3271.88,
+    "occupancy_pct": 75.1,
+    "adr": 139.89,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-13",
+    "revenue_rooms": 4359.84,
+    "revenue_fnb": 941.25,
+    "revenue_other": 176.7,
+    "costs_total": 3417.37,
+    "occupancy_pct": 74.3,
+    "adr": 139.63,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-14",
+    "revenue_rooms": 4637.88,
+    "revenue_fnb": 853.38,
+    "revenue_other": 209.8,
+    "costs_total": 3504.56,
+    "occupancy_pct": 77.8,
+    "adr": 141.91,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-15",
+    "revenue_rooms": 5186.11,
+    "revenue_fnb": 1004.25,
+    "revenue_other": 258.74,
+    "costs_total": 3740.64,
+    "occupancy_pct": 87.7,
+    "adr": 140.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-16",
+    "revenue_rooms": 5906.55,
+    "revenue_fnb": 1210.19,
+    "revenue_other": 210.83,
+    "costs_total": 4409.76,
+    "occupancy_pct": 96.6,
+    "adr": 145.62,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-17",
+    "revenue_rooms": 4699.4,
+    "revenue_fnb": 977.13,
+    "revenue_other": 192.25,
+    "costs_total": 3427.75,
+    "occupancy_pct": 79.5,
+    "adr": 140.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-18",
+    "revenue_rooms": 4474.55,
+    "revenue_fnb": 851.99,
+    "revenue_other": 177.19,
+    "costs_total": 3262.07,
+    "occupancy_pct": 77.2,
+    "adr": 137.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-19",
+    "revenue_rooms": 4405.62,
+    "revenue_fnb": 951.74,
+    "revenue_other": 185.24,
+    "costs_total": 3476.15,
+    "occupancy_pct": 74.6,
+    "adr": 140.67,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-20",
+    "revenue_rooms": 4512.46,
+    "revenue_fnb": 973.5,
+    "revenue_other": 228.95,
+    "costs_total": 3473.71,
+    "occupancy_pct": 76.2,
+    "adr": 140.99,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-21",
+    "revenue_rooms": 4712.27,
+    "revenue_fnb": 1034.67,
+    "revenue_other": 196.42,
+    "costs_total": 3698.87,
+    "occupancy_pct": 81.4,
+    "adr": 137.85,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-22",
+    "revenue_rooms": 5382.48,
+    "revenue_fnb": 1143.17,
+    "revenue_other": 322.27,
+    "costs_total": 4260.56,
+    "occupancy_pct": 92.7,
+    "adr": 138.23,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-23",
+    "revenue_rooms": 5638.28,
+    "revenue_fnb": 1055.77,
+    "revenue_other": 262.44,
+    "costs_total": 4154.15,
+    "occupancy_pct": 95.3,
+    "adr": 140.84,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-24",
+    "revenue_rooms": 4930.7,
+    "revenue_fnb": 928.4,
+    "revenue_other": 149.34,
+    "costs_total": 3487.15,
+    "occupancy_pct": 84.2,
+    "adr": 139.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-25",
+    "revenue_rooms": 4473.17,
+    "revenue_fnb": 1012.6,
+    "revenue_other": 183.06,
+    "costs_total": 3485.63,
+    "occupancy_pct": 74.1,
+    "adr": 143.72,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-26",
+    "revenue_rooms": 4334.93,
+    "revenue_fnb": 917.09,
+    "revenue_other": 146.6,
+    "costs_total": 3372.4,
+    "occupancy_pct": 74.5,
+    "adr": 138.61,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-27",
+    "revenue_rooms": 4635.65,
+    "revenue_fnb": 1052.72,
+    "revenue_other": 215.56,
+    "costs_total": 3497.46,
+    "occupancy_pct": 76.4,
+    "adr": 144.5,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-28",
+    "revenue_rooms": 4824.72,
+    "revenue_fnb": 1006.07,
+    "revenue_other": 215.24,
+    "costs_total": 3613.28,
+    "occupancy_pct": 82.5,
+    "adr": 139.27,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-29",
+    "revenue_rooms": 5373.32,
+    "revenue_fnb": 1027.35,
+    "revenue_other": 310.23,
+    "costs_total": 3910.27,
+    "occupancy_pct": 90.3,
+    "adr": 141.7,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-30",
+    "revenue_rooms": 5702.75,
+    "revenue_fnb": 1159.27,
+    "revenue_other": 200.3,
+    "costs_total": 4116.67,
+    "occupancy_pct": 96.4,
+    "adr": 140.82,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-05-31",
+    "revenue_rooms": 5108.64,
+    "revenue_fnb": 1082.73,
+    "revenue_other": 243.01,
+    "costs_total": 3981.11,
+    "occupancy_pct": 83.4,
+    "adr": 145.81,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-01",
+    "revenue_rooms": 4885.91,
+    "revenue_fnb": 1110.69,
+    "revenue_other": 257.34,
+    "costs_total": 3732.04,
+    "occupancy_pct": 81.8,
+    "adr": 142.17,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-02",
+    "revenue_rooms": 4966.36,
+    "revenue_fnb": 942.11,
+    "revenue_other": 226.79,
+    "costs_total": 3805.07,
+    "occupancy_pct": 79.2,
+    "adr": 149.24,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-03",
+    "revenue_rooms": 5103.25,
+    "revenue_fnb": 1042.37,
+    "revenue_other": 207.47,
+    "costs_total": 3829.98,
+    "occupancy_pct": 82.0,
+    "adr": 148.14,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-04",
+    "revenue_rooms": 5296.78,
+    "revenue_fnb": 1188.31,
+    "revenue_other": 236.96,
+    "costs_total": 3953.93,
+    "occupancy_pct": 85.2,
+    "adr": 147.94,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-05",
+    "revenue_rooms": 5856.19,
+    "revenue_fnb": 1196.24,
+    "revenue_other": 336.27,
+    "costs_total": 4426.77,
+    "occupancy_pct": 93.9,
+    "adr": 148.45,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-06",
+    "revenue_rooms": 5834.84,
+    "revenue_fnb": 1158.74,
+    "revenue_other": 347.93,
+    "costs_total": 4358.29,
+    "occupancy_pct": 98.0,
+    "adr": 141.76,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-07",
+    "revenue_rooms": 5424.11,
+    "revenue_fnb": 1160.14,
+    "revenue_other": 249.23,
+    "costs_total": 3976.09,
+    "occupancy_pct": 86.9,
+    "adr": 148.54,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-08",
+    "revenue_rooms": 4617.39,
+    "revenue_fnb": 1013.31,
+    "revenue_other": 141.01,
+    "costs_total": 3626.42,
+    "occupancy_pct": 76.4,
+    "adr": 143.83,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-09",
+    "revenue_rooms": 4844.57,
+    "revenue_fnb": 1106.85,
+    "revenue_other": 164.42,
+    "costs_total": 3565.81,
+    "occupancy_pct": 78.6,
+    "adr": 146.77,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-10",
+    "revenue_rooms": 4682.14,
+    "revenue_fnb": 1070.36,
+    "revenue_other": 254.1,
+    "costs_total": 3628.58,
+    "occupancy_pct": 78.5,
+    "adr": 141.93,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-11",
+    "revenue_rooms": 5158.75,
+    "revenue_fnb": 1010.15,
+    "revenue_other": 166.69,
+    "costs_total": 3828.41,
+    "occupancy_pct": 83.9,
+    "adr": 146.4,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-12",
+    "revenue_rooms": 5664.52,
+    "revenue_fnb": 1257.03,
+    "revenue_other": 264.54,
+    "costs_total": 4433.36,
+    "occupancy_pct": 92.7,
+    "adr": 145.48,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-13",
+    "revenue_rooms": 6126.23,
+    "revenue_fnb": 1299.21,
+    "revenue_other": 259.24,
+    "costs_total": 4522.32,
+    "occupancy_pct": 97.9,
+    "adr": 149.02,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-14",
+    "revenue_rooms": 5348.19,
+    "revenue_fnb": 1068.16,
+    "revenue_other": 164.53,
+    "costs_total": 4072.92,
+    "occupancy_pct": 85.9,
+    "adr": 148.19,
+    "rooms_available": 42
+  },
+  {
+    "date": "2026-06-15",
+    "revenue_rooms": 4708.74,
+    "revenue_fnb": 957.84,
+    "revenue_other": 212.92,
+    "costs_total": 3659.48,
+    "occupancy_pct": 77.6,
+    "adr": 144.45,
+    "rooms_available": 42
+  }
+]

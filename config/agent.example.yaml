@@ -1,0 +1,86 @@
+# ---------------------------------------------------------------------------
+# agent.yaml - Portfolio Analyst AI's own knobs. `make setup` copies this to
+# config/agent.yaml; edit that copy, this example stays as a clean reference.
+#
+# Portfolio Analyst AI (nicknamed "the Analyst") answers plain-English
+# questions about the property's own connected data. It never sends anything
+# and never writes a rate, a booking or a setting - see docs/safety.md. The
+# knobs below shape the one thing it does: how it thinks through a question.
+# ---------------------------------------------------------------------------
+
+# Which of pms/email/messaging this agent actually reads from - it has no
+# tool that reads or sends email or a WhatsApp/chat message at all, see
+# docs/integrations.md "Not used at all by this agent". Keeps `make run`'s
+# SAMPLE DATA warning honest when `systems.email.adapter`/
+# `systems.messaging.adapter` are left as `mock`. See
+# core/adapters/__init__.py:_systems_used.
+systems_used: [pms]
+
+# What the Analyst calls itself when it introduces itself in a reply. TH1's
+# own demo platform nicknames this persona "Jarvis" - see
+# docs/how-it-works.md "Design decisions" for why this repo uses a plainer
+# name instead.
+persona:
+  name: "the Analyst"
+
+# The bounded tool-calling loop (workflows/10-ask.md, tools/tool_loop.py).
+# Every answer is built by the model deciding, round by round, which of the
+# tools in tools/toolkit.py to call before it is ready to answer - see
+# docs/how-it-works.md for the full mechanics.
+tool_loop:
+  max_rounds: 6                    # forced final answer after this many rounds
+  max_tool_result_chars: 12000     # a chatty tool cannot blow up the prompt
+  max_tool_arg_echo_chars: 600     # same cap on the echoed arguments
+
+# A question that gets no clean final answer within max_rounds, or where a
+# tool call keeps failing, is queued as `needs_human` instead of guessing -
+# see tools/engine.py:needs_human_for equivalent logic there.
+
+# No visitor accounts exist in a self-hosted template, so this is a simple
+# daily cap instead of the demo's per-visitor rate limit. Fails OPEN: if the
+# counter itself cannot be read or written, the question is still answered
+# rather than blocked.
+rate_limit:
+  max_questions_per_day: 200
+
+# The standing set of questions `make run ARGS="--digest"` asks every
+# morning (workflows/16-digest.md) and exports to
+# data/exports/digest_reports.csv. Edit this list to whatever your own
+# managers actually want to see first thing.
+digest:
+  questions:
+    - "How are we doing this month?"
+    - "Who is arriving today?"
+    - "Which reservations are departing today?"
+    - "Any guest emails needing attention?"
+    - "Forecast revenue for the next 30 days"
+    - "Build me a weekly briefing report with KPIs and a revenue chart"
+
+# tools/toolkit.py:run_forecast - the trailing window that sets the
+# year-over-year ratio, and the hard cap on how far ahead it will project.
+forecast:
+  trailing_days: 28
+  max_days: 90
+
+# tools/toolkit.py:list_reservations - cap per window, so a busy day never
+# silently truncates without saying so.
+reservations:
+  max_rows: 25
+
+# tools/toolkit.py:search_knowledge_base - how many ranked passages to return.
+knowledge_search:
+  top_k: 8
+
+# How often the morning briefing runs. `python3 tools/schedule.py --all` turns
+# this into a cron/launchd/systemd snippet with the right command already
+# filled in - see scheduler/ for ready-made examples and config/hotel.yaml
+# for the timezone this cadence is interpreted in.
+schedule:
+  digest:
+    cadence: "morning"     # 07:00 daily - a friendly name from core/schedule.py's
+                           # CADENCES table. Using the name rather than a raw cron
+                           # string is what makes the launchd snippet's calendar
+                           # interval correct - core/schedule.py only reads the
+                           # Hour/Minute for launchd off the named cadence, not off
+                           # an arbitrary "H M * * *" string.
+    command: "tools/run.py --once --digest"
